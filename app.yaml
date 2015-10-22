@@ -1,0 +1,65 @@
+application: fake-acro
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+
+
+
+
+# Handle the main page by serving the index page.
+# Note the $ to specify the end of the path, since app.yaml does prefix matching.
+
+
+- url: /
+  script: /index.php
+
+
+- url: /(.+\.php)$
+  script: \1
+
+- url: /(.+\.(gif|png|jpg|jpeg|JPEG|JPG|svg|js|css|woff2|woff|ttf|ico))$
+  static_files: \1
+  upload: .+\.(gif|png|jpg|jpeg|JPEG|JPG|svg|js|css|woff2|woff|ttf|ico)$
+  application_readable: true
+
+
+
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+# Handle folder urls by serving the index.html page inside.
+
+
+
+#- url: /(.*?)/(.*)
+#  script: /\2/\1.php  # specify a script
+
+
+
+
+# Recommended file skipping declaration from the GAE tutorials
+skip_files:
+  - ^(.*/)?app\.yaml
+  - ^(.*/)?app\.yml
+  - ^(.*/)?#.*#
+  - ^(.*/)?.*~
+  - ^(.*/)?.*\.py[co]
+  - ^(.*/)?.*/RCS/.*
+  - ^(.*/)?\..*
+  - ^(.*/)?tests$
+  - ^(.*/)?test$
+  - ^test/(.*/)?
+  - ^COPYING.LESSER
+  - ^README\..*
+  - \.gitignore
+  - ^\.git/.*
+  - \.*\.lint$
+  - ^fabfile\.py
+  - ^testrunner\.py
+  - ^grunt\.js
+  - ^node_modules/(.*/)?
