@@ -1,5 +1,5 @@
-application: fake-acro
-version: 1
+application: flying-highacrobatics
+version: 3
 runtime: php55
 api_version: 1
 threadsafe: yes
