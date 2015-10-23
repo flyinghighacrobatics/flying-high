@@ -442,25 +442,25 @@ fb {
   CUSTOMIZE HEADER TAG
 */
 .head1{
-  background-image: url('../images/concert.jpg');
+  background-image: url('../images/header2.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head2{
-  background-image: url('../images/iphone1.jpg');
+  background-image: url('../images/header.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head3{
-  background-image: url('../images/microphone1.jpg');
+  background-image: url('../images/profile.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head4{
-  background-image: url('../images/profile.jpg');
+  background-image: url('../images/iphone.jpg');
 /*  color:#9ACD32;*/
   color:white;
   text-shadow: 1px 1px 3px black;
