@@ -55,7 +55,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+/*    color: rgba(255,255,255,.7); */
 }
 
 @media(min-width:768px) {
@@ -89,6 +89,7 @@ header .header-content .header-content-inner p {
         font-size: 18px;
     }
 }
+
 
 .section-heading {
     margin-top: 0;
@@ -134,7 +135,7 @@ header .header-content .header-content-inner p {
 }
 
 .promo-item:hover {
-    background-size: 110%; 
+    background-size: 110%;
     border: 10px solid rgba(255,255,255,0.3);
     line-height: 160px;
 }
@@ -148,15 +149,15 @@ header .header-content .header-content-inner p {
 .item-1 {
 	background: url('../images/writing.jpg');
 	}
-	
+
 .item-2 {
 	background: url('../images/event_mini.svg');
 	}
-	
+
 .item-3 {
 	background: url('../images/profile.jpg');
 	}
-		
+
 .item-1,
 .item-2,
 .item-3 {
@@ -178,13 +179,13 @@ header .header-content .header-content-inner p {
 	font-size: 22px;
 	font-weight: 300;
 	}
-	
-.content-3 .glyphicon,	
+
+.content-3 .glyphicon,
 .page-footer .contact .glyphicon {
 	font-size: 32px;
 	font-weight: 700;
 	}
-		
+
 .page-footer .small-print {
 	padding: 50px 0 40px;
 	font-weight: 300;
@@ -434,3 +435,38 @@ img::-moz-selection {
 fb {
     color: #fff;
 }
+
+
+
+/*
+  CUSTOMIZE HEADER TAG
+*/
+.head1{
+  background-image: url('../images/concert.jpg');
+  color:rgba(255,255,255);
+  text-shadow: 1px 1px rgba(0,0,0,.8);
+}
+
+.head2{
+  background-image: url('../images/iphone1.jpg');
+  color:rgba(255,255,255);
+  text-shadow: 1px 1px rgba(0,0,0,.8);
+}
+
+.head3{
+  background-image: url('../images/microphone1.jpg');
+  color:rgba(255,255,255);
+  text-shadow: 1px 1px rgba(0,0,0,.8);
+}
+
+.head4{
+  background-image: url('../images/profile.jpg');
+/*  color:#9ACD32;*/
+  color:white;
+  text-shadow: 1px 1px 3px black;
+}
+
+
+/*
+ END CUSTOMIZE HEADER
+*/

@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Flying High Acrobatics';
+$pageTitle = 'Flying High Home Page';
 include('header.php');
  ?>
 
@@ -7,7 +7,7 @@ include('header.php');
 
 <!--sdad-->
  	<!-- Header -->
-     <header>
+     <header class="head4">
          <div class="header-content">
              <div class="header-content-inner">
                  <h1>Flying High</h1>
