@@ -1,4 +1,6 @@
 <?php
+$pageTitle = 'About page - Flying High';
+$pageDesc = 'this is the real page description for fucking facebook here';
 include('header.php');
  ?>
 

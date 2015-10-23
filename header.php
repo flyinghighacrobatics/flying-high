@@ -14,7 +14,50 @@ Although you can use them, for a more unique website, replace these images with 
 
 
 
-    <title>Flying High Acrobatics</title>
+    <title>
+      <?php
+        if(isset($pageTitle)){
+          print $pageTitle;
+        } else {
+          print 'Flying High Acrobatics';
+        }
+       ?>
+
+    </title>
+
+
+    <!-- Facebook tags-->
+
+<?php
+//SETTING PAGE TITLE
+$scriptName = basename($_SERVER['REQUEST_URI']);
+//echo "<hr>$scriptName<hr>";
+if(strstr($scriptName, 'manual.php')){
+//echo "<hr>1<hr>";
+$fbTitle = ($pageTitle)?$pageTitle:$label[$curLang]['facebook_title'];
+$fbImg = "http://partner-acrobatics.com/img/logo-500.png";
+//pa2013-sized.jpg
+$fbDesc = ($pageSubTitle)?$pageSubTitle:$label[$curLang]['facebook_desc_man'];
+
+}
+elseif($scriptName == 'program-15.php' || $scriptName =='fees-15.php'){
+//echo "<hr>2<hr>";
+$fbTitle = ($pageTitle)?$pageTitle:'Partner Acrobatics';
+$fbImg = "http://partner-acrobatics.com/img/pa2013-sized.jpg";
+$fbDesc = $label[$curLang]['facebook_desc_15'];
+}
+else{
+//echo "<hr>3<hr>";
+$fbTitle = ($pageTitle)?$pageTitle:'Flying High Acrobatics';
+$fbImg =($pageImg)?$pageImg: "http://flyinghighacrobatics.com/images/fh.png";
+//pa2013-sized.jpg
+$fbDesc = ($pageDesc)?$pageDesc:'Flying High Acrobatics is bla bla bla bla';
+}
+?>
+<meta property="og:image" content="<?=$fbImg ?>" />
+<meta property="og:title" content="<?=$fbTitle ?>" />
+<meta property="og:description" content="<?=$fbDesc ?>" />
+<meta property="og:type" content="website" />
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

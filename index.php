@@ -1,10 +1,11 @@
 <?php
+$pageTitle = 'Flying High Home Page';
 include('header.php');
  ?>
 
 
 
-
+<!--sdad-->
  	<!-- Header -->
      <header>
          <div class="header-content">
@@ -13,7 +14,7 @@ include('header.php');
                  <p>On the road to Hand to Hand<br>
  		 Acrobatics workshop with Martin Kvist & Emily Baxter <br>
  		  Copenhagen 7-8 November 2015.</p>
-                 <a href="http://flyinghighacrobatics.com/flyinghighcph.html" class="btn btn-primary btn-lg">More info</a>
+                 <a href="flyinghighcph.php" class="btn btn-primary btn-lg">More info</a>
              </div>
          </div>
      </header>
@@ -41,7 +42,7 @@ include('header.php');
                  <div class="col-sm-6">
                  	<h2 class="section-header">Handstand Training</h2>
                  	<p class="lead text-muted">Workshops, privates, personal training.</p>
-                 	<a href="http://flyinghigh-acrobatics.com/contact.html" class="btn btn-primary btn-lg">Book a training</a>
+                 	<a href="contact.php" class="btn btn-primary btn-lg">Book a training</a>
                  </div>
 
              </div>
@@ -93,7 +94,7 @@ include('header.php');
          </div>
      </div><!-- /.container-fluid -->
 
- 
+
 
 
 
