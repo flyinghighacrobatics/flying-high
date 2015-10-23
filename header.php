@@ -48,10 +48,10 @@ $fbDesc = $label[$curLang]['facebook_desc_15'];
 }
 else{
 //echo "<hr>3<hr>";
-$fbTitle = ($pageTitle)?$pageTitle:'Flying High Acrobatics';
-$fbImg =($pageImg)?$pageImg: "http://flyinghighacrobatics.com/images/fh.png";
+$fbTitle = (isset(z$pageTitle))?$pageTitle:'Flying High Acrobatics';
+$fbImg =(isset($pageImg))?$pageImg: "http://flyinghighacrobatics.com/images/fh.png";
 //pa2013-sized.jpg
-$fbDesc = ($pageDesc)?$pageDesc:'Flying High Acrobatics is bla bla bla bla';
+$fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bla';
 }
 ?>
 <meta property="og:image" content="<?=$fbImg ?>" />
