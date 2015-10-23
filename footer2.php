@@ -17,7 +17,7 @@ style="padding:1em ">
 <!-- Copyright etc -->
 <div class="small-print">
 <div class="container">
-  <p>Copyright &copy; Flyinghighacrobatics.com 2015</p>
+  <p>Copyright &copy; Flyinghighacrobatics.com 2015 - Photo credit: Monika Kolb</p>
 </div>
 </div>
 

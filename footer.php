@@ -23,7 +23,7 @@
       <!-- Copyright etc -->
       <div class="small-print">
         <div class="container">
-          <p>Copyright &copy; Flyinghighacrobatics.com 2015</p>
+          <p>Copyright &copy; Flyinghighacrobatics.com 2015 - Photo Credit: Monika Kolb</p>
         </div>
       </div>
 
