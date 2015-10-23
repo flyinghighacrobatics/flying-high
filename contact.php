@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Flying High Copenhagen';
+$pageTitle = 'Contact - Flying High Acrobatics';
 include('header.php');
  ?>
  <!--sdad-->
