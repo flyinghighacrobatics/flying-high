@@ -33,7 +33,7 @@ Although you can use them, for a more unique website, replace these images with 
 $scriptName = basename($_SERVER['REQUEST_URI']);
 
 //set Facebook variables (if not already defined inside the Pages)
-$fbTitle = (isset(z$pageTitle))?$pageTitle:'Flying High Acrobatics';
+$fbTitle = (isset($pageTitle))?$pageTitle:'Flying High Acrobatics';
 $fbImg =(isset($pageImg))?$pageImg: "http://flyinghighacrobatics.com/images/fh.png";
 $fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bla';
 
