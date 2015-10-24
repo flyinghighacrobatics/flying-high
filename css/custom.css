@@ -25,7 +25,7 @@ p {
 
 header {
     position: relative;
-    width: 100%;
+/*    width: 100%; */
     min-height: auto;
     text-align: center;
     color: #fff;
@@ -147,15 +147,15 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../images/writing.jpg');
+	background: url('../images/promo/item1.jpg');
 	}
 
 .item-2 {
-	background: url('../images/event_mini.svg');
+	background: url('../images/promo/item2.svg');
 	}
 
 .item-3 {
-	background: url('../images/profile.jpg');
+	background: url('../images/promo/item3.jpg');
 	}
 
 .item-1,
@@ -442,26 +442,38 @@ fb {
   CUSTOMIZE HEADER TAG
 */
 .head1{
-  background-image: url('../images/header2.jpg');
+  background-image: url('../images/headerimg/head.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head2{
-  background-image: url('../images/header.jpg');
+  background-image: url('../images/headerimg/head2.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head3{
-  background-image: url('../images/profile.jpg');
+  background-image: url('../images/headerimg/head3.jpg');
   color:rgba(255,255,255);
   text-shadow: 1px 1px rgba(0,0,0,.8);
 }
 
 .head4{
-  background-image: url('../images/iphone.jpg');
+  background-image: url('../images/headerimg/head4.jpg');
 /*  color:#9ACD32;*/
+  color:white;
+  text-shadow: 1px 1px 3px black;
+}
+
+.head5{
+  background-image: url('../images/headerimg/head5.jpg');
+  color:white;
+  text-shadow: 1px 1px 3px black;
+}
+
+.head6{
+  background-image: url('../images/headerimg/head6.jpg');
   color:white;
   text-shadow: 1px 1px 3px black;
 }

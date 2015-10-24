@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Flying High Home Page';
+$pageTitle = 'Flying High Acrobatics';
 include('header.php');
  ?>
 
