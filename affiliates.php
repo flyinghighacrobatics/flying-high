@@ -38,7 +38,7 @@ include('header.php');
          <div class="container">
              <div class="row">
                <div class="col-sm-6">
-                     <img style={height:30%;}  src="images/header222.jpg" alt="">
+                     <img class="img-responsive img-thumbnail" style=""  src="images/header222.jpg" alt="">
                  </div>
                  <div class="col-sm-6">
                          <h2 class="section-header">Partner Acrobatics</h2>

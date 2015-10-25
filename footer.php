@@ -50,21 +50,26 @@
       var path = $(location).attr('href');
       var index = path.lastIndexOf("/") + 1;
       var page = path.substr(index);
-      //var page = path.split("/").pop();
+      if(page=='') page = '/';
       console.log('page: ' + page);
-      //$(".nav").find(".active").removeClass("active");
-      //$(".nav li").addClass("active");
-     //$.each( $('.nav li a'), function( ) {
 
       $( ".nav li a" ).each(function() {
-      //  console.log($(this).attr('href'));
       console.log('href: ' + $(this).attr('href'));
-        if($(this).attr('href').contains(page)){
+      var xxx = $(this).attr('href');
+//      console.log('length: ' + xxx.length);
+      var yyy = '/'+page+'/';
+      var re = new RegExp(yyy, 'g');
+      var zzz = xxx.match(re);
+      console.log('xxx: ' + xxx);
+      console.log('length: ' + xxx.length);
+      if((xxx) && xxx == page){
           console.log('giot it !!!');
             $(this).parent().addClass('active');
             return false;
-          }
-          
+      } else {
+            return true;
+      }
+
         });
     });
 </script>
