@@ -66,63 +66,57 @@ More info at:
 
  	<!-- Content 2 -->
       <section class="content content-2">
-              <div class="container">
-            <div class="row">
-
-                 <div class="col-sm-8">
+        <div class="container">
+        <div class="row">
+           <div class="col-sm-6">
                    <h2 class="section-header">One Minute Practice</h2>
                   <p class="lead text-light">
       The most natural way to solve our problems<br>
       Using just our breath to address them </p>
-      <!--
-            /* INTRO */
-           -->
+<br><br>
 
-            <h2>Why One Minute Practice?</h2>
-           <div class='row'>
-           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
-             <p>
-               One Minute Practice is a powerful self care system. Easy to learn. Quick to apply.<br><br>
+<h2>Why One Minute Practice?</h2>
+<p>
+           One Minute Practice is a powerful self care system. Easy to learn. Quick to apply.<br><br>
 
 
-               We empower people to treat themselves using breath and micro-movements, addressing a wide range of ailments from physical to emotional.
-             </p>
+           We empower people to treat themselves using breath and micro-movements, addressing a wide range of ailments from physical to emotional.
+         </p>
+</div>
+<div class="col-sm-6">
+             <img class="img-responsive img-thumbnail" style=""  src="images/omp.png" alt="">
+
+</div>
 
 
-           </div> <!-- Close row -->
-           </div>  <!-- Close container -->
 
-             <h3>Pros</h3>
-             <ul class="lead">
-                <li><strong>do it yourself</strong> <br>
-                  No need to be dependant on others to reach your goals.
-                </li>
-                <li><strong>help others</strong> <br>
-                  Once you embody the practice it will be easy to help others also.
-                </li>
-                <li><strong>learn it from the website</strong> <br>
-                  This website is meant to offer you all the tools to start a successful practice on your own.
-                </li>
-                <li><strong>fast</strong> <br>
-                  Once you know what to do you get quick results.
-                </li>
-                <li><strong>do it anywhere</strong> <br>
-                  You can do it in bed before sleeping or when you wake up, at your desk, in front of a computer and/or included it in your training as an athlete...
-                </li>
+<div class="col-sm-8">
+         <h3>Pros</h3>
+         <ul class="lead">
+            <li><strong>do it yourself</strong> <br>
+              No need to be dependant on others to reach your goals.
+            </li>
+            <li><strong>help others</strong> <br>
+              Once you embody the practice it will be easy to help others also.
+            </li>
+            <li><strong>learn it from the website</strong> <br>
+              This website is meant to offer you all the tools to start a successful practice on your own.
+            </li>
+            <li><strong>fast</strong> <br>
+              Once you know what to do you get quick results.
+            </li>
+            <li><strong>do it anywhere</strong> <br>
+              You can do it in bed before sleeping or when you wake up, at your desk, in front of a computer and/or included it in your training as an athlete...
+            </li>
 
-             </ul>
+            <li><strong>Find out more at:</strong><br>
+            <a href="http://one-minute-practice.com/">one-minute-practice.com</a></li>
+         </ul>
+</div> <!--colum -->
+</div><!--close row -->
+</div>
 
-     </div>
-
-
-           </div><!--. row-->
-
-
-         </div>
-
-         </div>
-
-
+</div> <!-- close container -->
 
 </section>
 
