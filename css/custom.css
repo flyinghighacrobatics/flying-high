@@ -116,7 +116,9 @@ header .header-content .header-content-inner p {
 	padding: 20px 0 40px;
 	text-align: center;
 }
-
+/*
+Promo setup
+*/
 .promo,
 .promo h3,
 .promo a:link,
@@ -158,12 +160,17 @@ header .header-content .header-content-inner p {
 	background: url('../images/promo/item3.jpg');
 	}
 
+
 .item-1,
 .item-2,
 .item-3 {
 	background-size: cover;
 	background-position: 50% 50%;
 	}
+
+  /*
+  End promo setup, Begin footer
+  */
 
 .page-footer {
 	text-align: center;
@@ -481,4 +488,14 @@ fb {
 
 /*
  END CUSTOMIZE HEADER
+*/
+
+/*
+Change color of mailto link in contact footer
+*/
+.mailto{
+  color:white;
+}
+/*
+END
 */

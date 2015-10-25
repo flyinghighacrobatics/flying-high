@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'About page - Flying High';
-$pageDesc = 'this is the real page description for fucking facebook here';
+$pageDesc = 'this is the real page description for facebook here';
 include('header.php');
  ?>
 
@@ -20,7 +20,7 @@ include('header.php');
                          <p class="lead text-muted">Martin is a very experienced teacher of gymnastics, acrobatics and other fields of movement mastery. He has practiced and competed in a variety of acrobatic sports like vaulting horse and team gymnastics, but when he stumbled upon acrobatics he was hooked for life. Besides throwing people in the air and flying hand to hand, Martin has a passion for neuroscience and human performance, he is currently studying a masters degree in sports science, conducting research into how the body or especially the brain and nervous system adapts to balance oriented training like acrobatics. Martin continuously strives to bring together the age old experience and training philosophy of the masters with the latest findings in sports science, and applying this to improve his own and his students performance in acrobatics and movement.
 
  </p>
-                         <a href="http://flyinghigh-acrobatics.com/contact.html" class="btn btn-primary btn-lg">Book a training</a>
+         <a href="mailto:info@flyinghighacrobatics.com?subject=Book a training" class="btn btn-primary btn-lg">Book a training</a>
                  </div>
 
              </div>
@@ -35,14 +35,27 @@ include('header.php');
                  <div class="col-sm-6">
                  	<h2 class="section-header">Experience</h2>
                  	<div class="outline-text-2" id="text-1">
- </div><div id="outline-container-sec-1-0-0-1" class="outline-5">
+ </div>
+
+ <div id="outline-container-sec-1-0-0-1" class="outline-5">
  <h3 id="sec-1-0-0-1">Msc. Stud. Sport science at Aalborg University</h3>
  <div class="outline-text-5" id="text-1-0-0-1">
  <p>
- 2014 - Present (1 year)
+ 2014 - Present
  </p>
  </div>
  </div>
+
+<div id="outline-container-sec-1-0-0-3" class="outline-5">
+ <h3 id="sec-1-0-0-3">Acrobatics and Sport science Teacher at www.partner-acrobatics.com</h3>
+ <div class="outline-text-5" id="text-1-0-0-3">
+ <p>
+ September 2015 - Oktober 2015
+ Teacher, sport science specialist and lecturer for the www.partneracrobatics.com Mexico Teacher Training 2015
+ </p>
+ </div>
+
+
  <div id="outline-container-sec-1-0-0-2" class="outline-5">
  <h3 id="sec-1-0-0-2">Teacher, Trainer and Sports injury specialist at www.partner-acrobatics.com</h3>
  <div class="outline-text-5" id="text-1-0-0-2">
