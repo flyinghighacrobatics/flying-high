@@ -132,7 +132,7 @@ $fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bl
       </li>
 
                 <li>
-                    <a href="#">Afiliates</a>
+                    <a href="affiliates.php">Affiliates</a>
                 </li>
 <!--
                 <li><a href="http://partneracrobatics.com/">Partner-acrobatics</a></li>

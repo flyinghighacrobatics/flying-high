@@ -40,7 +40,7 @@ include('header.php');
                      <img class="img-responsive img-circle center-block" src="images/iphone2.jpg" alt="">
                  </div>
                  <div class="col-sm-6">
-                 	<h2 class="section-header">Handstand Training</h2>
+                 	<h2 class="section-header">Handstand & Hand to Hand Training</h2>
                  	<p class="lead text-muted">Workshops, privates, personal training.</p>
      <a href="mailto:info@flyinghighacrobatics.com?subject=Handstand Training" class="btn btn-primary btn-lg">Book a training</a>
 
@@ -56,8 +56,17 @@ include('header.php');
              <div class="row">
                  <div class="col-sm-6">
                  	<h2 class="section-header">Lectures & Articles</h2>
-                 	<p class="lead text-light">Talks, lectures, classes, workshops, articles, curriculums and more on Training theory, Exercise physiology, Anatomy, Neuroscience, Injury prevention and other Sport Science Related topics.</p>
-                 	<a href="http://partneracrobatics.com/article_fatigue1.php" class="btn btn-default btn-lg">Read it</a>
+                 	<p class="lead text-light">Courses, presentations, classes, talks, lectures, workshops, articles, curriculums and
+                     more. <br><br> On topics like The science of flexibility, Exercise physiology, Anatomy, Neuroscience, Injury prevention,
+                      Performance enhancment,  and other Sport Science, teaching and
+                      training related topics.</p>
+
+                      <br><br>
+                      <p>
+                      Example: article written for Partner-Acrobatics on fatigue related inury risk
+                      and acrobatics. <br>
+                    </p>
+                  <a href="http://partneracrobatics.com/article_fatigue1.php" class="btn btn-default btn-lg">Read it</a>
                  </div>
                  <div class="col-sm-6">
                      <img class="img-responsive img-circle center-block" src="images/iphone.jpg" alt="">
