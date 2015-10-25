@@ -118,22 +118,26 @@ $fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bl
                 <li>
                     <a href="/">Home</a>
                 </li>
-                <li><a href="about.php">About me</a></li>
-                <li><a href="#">Articles etc..</a></li>
+                <li><a href="about.php">About</a></li>
+              <!--   <li><a href="#">Articles etc..</a></li> -->
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events <span class="caret"></span></a>
         <ul class="dropdown-menu" aria-labelledby="about-us">
           <li><a href="flyinghighcph.php">Flying High Cph</a></li>
-            <li><a href="http://partneracrobatics.com/">Partner-acrobatics</a></li>
-          <li><a href="http://one-minute-practice.com/en/">One Minute Practice</a></li>
-          <li><a href="#">Handstands</a></li>
+        <!--            <li><a href="#">Handstands</a></li>
             <li><a href="#">Yoga</a></li>
           <li><a href="#">Movement</a></li>
+-->
         </ul>
       </li>
+
                 <li>
-                    <a href="contact.php">Contact</a>
+                    <a href="#">Afiliates</a>
                 </li>
+<!--
+                <li><a href="http://partneracrobatics.com/">Partner-acrobatics</a></li>
+              <li><a href="http://one-minute-practice.com/en/">One Minute Practice</a></li>
+-->
 
 
 

@@ -4,6 +4,28 @@ $pageDesc = 'this is the real page description for facebook here';
 include('header.php');
  ?>
 
+ <section class="intro">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-8 col-lg-offset-2">
+              <span class="glyphicon glyphicon-fire" style="font-size: 60px"></span>
+                 <h2 class="section-heading">Acrobatics, Yoga, Gymnastics, Handstands, Anatomy, Sports Science and more...</h2>
+                 <p class="text-light">Flying High Acrobatics offers trainings, workshops, lectures, personal training, performance enhancement, injury prevention, rehab, and much more. We work with highly educated instructors with diverse movement backgrounds to offer quality events all over the world.</p>
+             </div>
+         </div>
+     </div>
+ </section>
+
+<!-- Break line -->
+<section class="content content-2">
+   <div class="container">
+       <div class="row">
+         <div class="col-lg-8 col-lg-offset-2">
+            <h2 class="section-heading">Teachers:</h2>
+</div>
+</div>
+</div>
+</section>
 
 
 
@@ -12,7 +34,7 @@ include('header.php');
      <section class="content">
          <div class="container">
              <div class="row">
-                 <div class="col-sm-6">
+               <div class="col-sm-6">
                      <img class="img-responsive img-circle center-block" src="images/56.jpg" alt="">
                  </div>
                  <div class="col-sm-6">
@@ -30,72 +52,50 @@ include('header.php');
 
  	<!-- Content 2 -->
       <section class="content content-2">
-         <div class="container">
-             <div class="row">
-                 <div class="col-sm-6">
+        <div class="container">
+            <div class="row">
+
+                 <div class="col-sm-8">
                  	<h2 class="section-header">Experience</h2>
-                 	<div class="outline-text-2" id="text-1">
- </div>
+                  <p class="lead text-light">
+                    <h3>Msc. Stud. Sport science at Aalborg University</h3>
+                    2014 - Present
 
- <div id="outline-container-sec-1-0-0-1" class="outline-5">
- <h3 id="sec-1-0-0-1">Msc. Stud. Sport science at Aalborg University</h3>
- <div class="outline-text-5" id="text-1-0-0-1">
- <p>
- 2014 - Present
- </p>
- </div>
- </div>
+ <h3>Acrobatics and Sport science Teacher at www.partner-acrobatics.com</h3>
 
-<div id="outline-container-sec-1-0-0-3" class="outline-5">
- <h3 id="sec-1-0-0-3">Acrobatics and Sport science Teacher at www.partner-acrobatics.com</h3>
- <div class="outline-text-5" id="text-1-0-0-3">
- <p>
  September 2015 - Oktober 2015
  Teacher, sport science specialist and lecturer for the www.partneracrobatics.com Mexico Teacher Training 2015
- </p>
+
+ <div class="col-sm-8">
+          <img class="img-responsive img-circle center-block" src="images/iphone.jpg" alt="">
  </div>
 
+ <h3>Teacher, Trainer and Sports injury specialist at www.partner-acrobatics.com</h3>
 
- <div id="outline-container-sec-1-0-0-2" class="outline-5">
- <h3 id="sec-1-0-0-2">Teacher, Trainer and Sports injury specialist at www.partner-acrobatics.com</h3>
- <div class="outline-text-5" id="text-1-0-0-2">
- <p>
  August 2015 - August 2015 (1 month)
  Teacher, Trainer and Sports injury specialist for the Spain intensive training
- </p>
- </div>
- </div>
- <div id="outline-container-sec-1-0-0-3" class="outline-5">
- <h3 id="sec-1-0-0-3">Acrobatics and Sport science Teacher at www.partner-acrobatics.com</h3>
- <div class="outline-text-5" id="text-1-0-0-3">
- <p>
- January 2015 - February 2015 (2 months)
+
+
+ <h3>Acrobatics and Sport science Teacher at www.partner-acrobatics.com</h3>
+
+January 2015 - February 2015 (2 months)
  Trainer and lecturer for the Thailand Teacher Training 2015 www.partner-acrobatics.com
- </p>
- </div>
- </div>
- <div id="outline-container-sec-1-0-0-4" class="outline-5">
- <h3 id="sec-1-0-0-4">Acrobatics Teacher at www.partner-acrobatics.com</h3>
- <div class="outline-text-5" id="text-1-0-0-4">
- <p>
+
+ <h3>Acrobatics Teacher at www.partner-acrobatics.com</h3>
+
  August 2014 - August 2014 (1 month)
  Assistant teacher and sports injury specialist for the Spain acro intensive.
- </p>
- </div>
- </div>
- <div id="outline-container-sec-1-0-0-5" class="outline-5">
- <h3 id="sec-1-0-0-5">Bsc. Sport Science at Aalborg University</h3>
- <div class="outline-text-5" id="text-1-0-0-5">
- <p>
+
+
+ <h3>Bsc. Sport Science at Aalborg University</h3>
+
+
  September 2011 - June 2014 (2 years 10 months)
  Sport Science
- </p>
- </div>
- </div>
- <div id="outline-container-sec-1-0-0-6" class="outline-5">
- <h3 id="sec-1-0-0-6">Assistant Teacher, student at INTEGRATED YIN YOGA TEACHER TRAINING</h3>
- <div class="outline-text-5" id="text-1-0-0-6">
- <p>
+
+
+  <h3>Assistant Teacher, student at INTEGRATED YIN YOGA TEACHER TRAINING</h3>
+
  July 2013 - August 2013 (2 months)
  These Yin Trainings are unique in their combination of anatomy, energetics and mindful teaching
  methodology. Encompassing all aspects of the practice and teaching of Yin Yoga.
@@ -109,19 +109,14 @@ include('header.php');
  aforementioned fields, which will give you all the tools required to be an excellent Yin Yoga teacher. I
  assisted this training teaching the science of flexibility, what goes on in the body when we practice yoga and
  how to use stretching as a performance enhancer.
- </p>
- </div>
- </div>
+</p>
 
+</div>
+</div>
+</div>
+</div>
 
-                 </div>
-                 <div class="col-sm-6">
-                     <img class="img-responsive img-circle center-block" src="images/iphone.jpg" alt="">
-                 </div>
-
-             </div>
-         </div>
-     </section>
+</section>
 
 
 

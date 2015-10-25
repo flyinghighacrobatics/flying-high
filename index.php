@@ -7,7 +7,7 @@ include('header.php');
 
 <!--sdad-->
  	<!-- Header -->
-     <header class="head6">
+     <header class="head4">
          <div class="header-content">
              <div class="header-content-inner">
                  <h1>Flying High</h1>
@@ -43,7 +43,7 @@ include('header.php');
                  	<h2 class="section-header">Handstand Training</h2>
                  	<p class="lead text-muted">Workshops, privates, personal training.</p>
      <a href="mailto:info@flyinghighacrobatics.com?subject=Handstand Training" class="btn btn-primary btn-lg">Book a training</a>
-                  
+
                  </div>
 
              </div>

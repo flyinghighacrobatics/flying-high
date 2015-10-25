@@ -1,4 +1,4 @@
-application: fake-acro
+application: flying-highacrobatics
 version: 3
 runtime: php55
 api_version: 1
