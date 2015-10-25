@@ -43,6 +43,32 @@
   <!-- Custom Javascript -->
   <script src="js/custom.js"></script>
 
+
+<!-- Lorenzo-s shit -->
+<script type="text/javascript">
+  $(document).ready(function(){
+      var path = $(location).attr('href');
+      var index = path.lastIndexOf("/") + 1;
+      var page = path.substr(index);
+      //var page = path.split("/").pop();
+      console.log('page: ' + page);
+      //$(".nav").find(".active").removeClass("active");
+      //$(".nav li").addClass("active");
+     //$.each( $('.nav li a'), function( ) {
+
+      $( ".nav li a" ).each(function() {
+      //  console.log($(this).attr('href'));
+      console.log('href: ' + $(this).attr('href'));
+        if($(this).attr('href').contains(page)){
+          console.log('giot it !!!');
+            $(this).parent().addClass('active');
+            return false;
+          }
+          
+        });
+    });
+</script>
+
 </body>
 
 </html>

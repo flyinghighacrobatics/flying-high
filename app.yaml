@@ -1,4 +1,4 @@
-application: flying-highacrobatics
+application: fake-acro
 version: 3
 runtime: php55
 api_version: 1
@@ -25,8 +25,9 @@ handlers:
   upload: .+\.(gif|png|jpg|jpeg|JPEG|JPG|svg|js|css|woff2|woff|ttf|ico)$
   application_readable: true
 
-
-
+- url: /googled53fc03a6d528c78\.html
+  static_files: googled53fc03a6d528c78.html
+  upload: googled53fc03a6d528c78\.html
 
 - url: /favicon\.ico
   static_files: favicon.ico

@@ -115,16 +115,11 @@ $fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bl
         <!-- Navbar links -->
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="nav navbar-nav navbar-right">
-                <li class="active">
+                <li>
                     <a href="/">Home</a>
                 </li>
-                <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
-        <ul class="dropdown-menu" aria-labelledby="about-us">
-          <li><a href="about.php">About me</a></li>
-        <li><a href="#">Articles etc..</a></li>
-        </ul>
-                </li>
+                <li><a href="about.php">About me</a></li>
+                <li><a href="#">Articles etc..</a></li>
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events <span class="caret"></span></a>
         <ul class="dropdown-menu" aria-labelledby="about-us">
