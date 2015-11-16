@@ -4,7 +4,7 @@
     <!-- Contact Us -->
       <div class="contact">
         <div class="container">
-      <h2 class="section-heading">Contact Us</h2>
+      <h2 class="section-heading">Contact</h2>
       <p><span class="glyphicon glyphicon-envelope"></span>
         <br><a class="mailto" href="mailto:info@flyinghighacrobatics.com">info@flyinghighacrobatics.com</a></p>
 

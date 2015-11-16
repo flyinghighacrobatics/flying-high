@@ -7,14 +7,14 @@ include('header.php');
 
 <!--sdad-->
  	<!-- Header -->
-     <header class="head4">
+     <header class="head1">
          <div class="header-content">
              <div class="header-content-inner">
                  <h1>Flying High</h1>
-                 <p>On the road to Hand to Hand<br>
- 		 Acrobatics workshop with Martin Kvist & Emily Baxter <br>
- 		  Copenhagen 7-8 November 2015.</p>
-                 <a href="flyinghighcph.php" class="btn btn-primary btn-lg">More info</a>
+                 <p>In Aalborg ?<br>
+ 		  Flying High Acrobatics is in Aalborg until the 18. Dec <br>
+ 		  Book your training or workshop now!</p>
+                 <a href="contact.php" class="btn btn-primary btn-lg">Contact us</a>
              </div>
          </div>
      </header>

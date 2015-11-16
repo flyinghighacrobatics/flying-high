@@ -80,7 +80,8 @@ More info at:
            One Minute Practice is a powerful self care system. Easy to learn. Quick to apply.<br><br>
 
 
-           We empower people to treat themselves using breath and micro-movements, addressing a wide range of ailments from physical to emotional.
+           We empower people to treat themselves using breath and micro-movements,
+            addressing a wide range of ailments from physical to emotional.
          </p>
 </div>
 <div class="col-sm-6">
