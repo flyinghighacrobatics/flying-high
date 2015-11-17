@@ -25,8 +25,14 @@ include('header.php');
             <div class="row">
               <div class="col-sm-6">
                 <h2 class="section-heading">Partner Acrobatics Intensive Training in Thailand <br>
-                Jan 2 -14. 2016</h2>
-                          <p>With Martin Kvist, Niko Douwes, Lorenzo Becci and Emily Baxter:</p>
+                Jan 2 -15. 2016</h2>
+                          <p>A 2 week long Intensive Training in Partner Acrobatics.<br>
+
+This program will give you the chance to refine your Acro skills and to have loads of fun.
+Plenty of time dedicated to improve your personal acrobatic practice and work on the aesthetics of your acro moves.
+6 or more hours per week will be dedicated for Therapeutics to restore your body.
+You have the option to choose.<br>
+                            <br>With Martin Kvist, Niko Douwes, Lorenzo Becci, Emily Baxter and More..</p>
 
                 <a href="affiliates.php" class="btn btn-primary btn-lg">Partner Acrobatics</a>
 
@@ -48,7 +54,16 @@ include('header.php');
                           <div class="col-sm-6">
                             <h2 class="section-heading">The One Minute Practice Training in Spain <br>
                             May 2016</h2>
-                                      <p>With Martin, Lorenzo Becci and Emily Baxter:</p>
+                                      <p> This immersion is the first step toward becoming
+                                         a One Minute Practice Practicioner.
+You will learn how to apply the One Minute Practice on yourself and others.
+<br>
+This program is designed to easily release many layers of tension. Addressing mental, emotional and physical blockages, with the breath and micro-movements as your main tools.
+On a beautiful retreat center in the south of Spain, you can choose to participate as much or as little as you want.
+<br>
+                                        <br>With Martin, Lorenzo Becci and Emily Baxter:</p>
+          <a href="affiliates.php" class="btn btn-primary btn-lg">One Minute Practice</a>
+
                                     </div>
             </div> <!-- close row -->
   </div>
@@ -112,7 +127,12 @@ include('header.php');
               </div>
               <div class="col-sm-6">
                 <h2 class="section-header">Partner Acrobatics Teacher Training 2015 in Mexico</h2>
-                <p class="lead text-muted">Fun, fun, fun...</p>
+                <p class="lead text-muted">A Teacher Training in Partner Acrobatics where you can intensively train for 4 weeks.
+<br><br>
+This program will give you the skills to teach Partner Acrobatics classes and workshops.
+Moreover plenty of time will be dedicated to improve your personal acrobatic practice.
+Some time will be dedicated to prepare public performances and work on the aesthetics of your acro moves.
+6 or more hours per week will be dedicated for Therapeutics to restore your body. You have the option to choose.</p>
                 <a href="affiliates.php" class="btn btn-primary btn-lg">Partner Acrobatics</a>
               </div>
 

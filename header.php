@@ -106,7 +106,7 @@ $fbDesc = (isset($pageDesc))?$pageDesc:'Flying High Acrobatics is bla bla bla bl
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="contact.php">
+            <a class="navbar-brand" href="/">
               <span class="glyphicon glyphicon-fire"></span>
               Flying High Acrobatics
             </a>
