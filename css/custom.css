@@ -102,6 +102,14 @@ header .header-content .header-content-inner p {
     padding: 70px 0;
     text-align: center;
 }
+/* Custom intro class for events page */
+
+.introevent {
+	color: #fff;
+    background-color: yellowgreen;
+    padding: 70px 0;
+    text-align: center;
+}
 
 .content {
     padding: 100px 0;
@@ -115,6 +123,27 @@ header .header-content .header-content-inner p {
 .content-3 {
 	padding: 20px 0 40px;
 	text-align: center;
+}
+/* Custom content setup */
+  .content-4 {
+    color: #fff;
+      background-color: #660066;
+      padding: 20px 0 40px;
+      text-align: center;
+  }
+  .content-5 {
+  /*	color: #fff;
+      background-color: #0099ff; */
+  }
+
+  .content-6 {
+  	color: #fff;
+      background-color: #660066;
+  }
+  .content-7 {
+  	color: #fff;
+      background-color: yellowgreen;
+/*      padding: 70px 0; */
 }
 /*
 Promo setup
