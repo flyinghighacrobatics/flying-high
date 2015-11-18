@@ -29,5 +29,5 @@ include('header.php');
 <!-- End content -->
 
      <?php
-     include('footer2.php');
+     include('footer.php');
       ?>
