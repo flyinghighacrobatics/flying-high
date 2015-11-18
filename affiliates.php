@@ -121,6 +121,38 @@ More info at:
 
 </section>
 
+<section class="content">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+                <img class="img-responsive img-thumbnail" style=""  src="images/maitri.jpg" alt="">
+            </div>
+            <div class="col-sm-6">
+                    <h2 class="section-header">The Maitri Movement</h2>
+                    <p class="lead text-muted"> Moving for freedom, joy and peace</p>
+                    <p>Sharpen your senses, practice presence and break to tune in with the life force around and within!
+                      <br> The Maitri Movement gathers a community of like-minded teachers and passionate practitioners with a shared vision of a balanced life made for connections, explorations and happiness.
+                    <br> From yoga, acroyoga and meditation, to acrobatics, dance, massages and positive psychology, we encourage interdisciplinarity and find complementary in our practices to empower and keep our dreams alive.
+In the space between breath, intention and movement, the magic happens. <br><br>
+
+The Maitri Movement organises and provides multidisciplinary and holistic retreats, workshops and interventions.
+<br><br>
+For friends and future friends, for the strongs and the vulnerables.
+<br>
+
+
+In diversity, we find unity. Let's be the catalyst of our change.
+
+<br><br>
+More info at:
+<li><a href="http://www.themaitrimovement.com">themaitrimovement.com</a></li>
+</p>
+  </div>
+
+        </div>
+    </div>
+</section>
+
 
 
 

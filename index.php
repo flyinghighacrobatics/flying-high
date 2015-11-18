@@ -14,7 +14,7 @@ include('header.php');
                  <p>In Aalborg ?<br>
  		  Flying High Acrobatics is in Aalborg until the 18. Dec <br>
  		  Book your training or workshop now!</p>
-      <a href="mailto:info@flyinghighacrobatics.com?subject=Book a training?" class="btn btn-primary btn-lg">Book a training</a>
+      <a href="mailto:info@flyinghighacrobatics.com" class="btn btn-primary btn-lg">Book a training</a>
 
              </div>
          </div>

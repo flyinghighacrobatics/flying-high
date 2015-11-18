@@ -43,15 +43,39 @@ You have the option to choose.<br>
             </div> <!-- close row -->
 </div>
     </section>
+<!-- End parter acro -->
+<section class="content content-8">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+                <img class="img-responsive img-thumbnail" style=""  src="images/maitri.jpg" alt="">
+            </div>
+            <div class="col-sm-6">
+                    <h2 class="section-header">Spring Yoga Immersion, 13-17 May 2016</h2>
+                    <br><br>
+                    <p> 5 days of yoga in its many forms, acroyoga and partner acrobatics, meditation, positive psychology and massages.
+                      <br><br>
+Two stunning farmhouses in Provence, South of France, 2hrs from Paris, 20min from Marseille.<br>
+<br>
+Nature, relaxation, deep practice and pure fun: Bliss!
+
+
+
+<br><br>
+More info at:
+<li><a href="http://www.themaitrimovement.com/#!may-2016/pzxzd">themaitrimovement.com</a></li>
+</p>
+  </div>
+
+        </div>
+    </div>
+</section>
 
     <!-- Content 6 -->
        <section class="content content-6">
           <div class="container">
             <div class="row">
-                        <div class="col-sm-6">
-              <img class="img-responsive img-square center-block" src="images/omp.png" alt="">
-                          </div>
-                          <div class="col-sm-6">
+                                              <div class="col-sm-6">
                             <h2 class="section-heading">The One Minute Practice Training in Spain <br>
                             May 2016</h2>
                                       <p> This immersion is the first step toward becoming
@@ -65,9 +89,40 @@ On a beautiful retreat center in the south of Spain, you can choose to participa
           <a href="affiliates.php" class="btn btn-primary btn-lg">One Minute Practice</a>
 
                                     </div>
+                                    <div class="col-sm-6">
+                                <img class="img-responsive img-square center-block" src="images/omp.png" alt="">
+                                      </div>
             </div> <!-- close row -->
   </div>
     </section>
+<!-- End omp -->
+<section class="content content-9">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+                <img class="img-responsive img-thumbnail" style=""  src="images/yoga.png" alt="">
+            </div>
+            <div class="col-sm-6">
+                    <h2 class="section-header">Summer Yoga Intensive, 9-23 July 2016</h2>
+                    <br><br>
+                    <p> 1 or 2 weeks of yoga, acroyoga and partner acrobatics, meditation, positive psychology, massages,
+                       and a lot of nature.
+                       <br><br>
+                       Yoga on and off our mats!
+                       <br><br>
+We will be moving for fun, for challenges, for sweetness, and for peace.
+Let's bring the light from the inside out and awaken our authenticity and intuition to shape our lives positively.
+ <br><br>
+Rendez-vous in Provence, South of France.
+<br><br>
+More info at:
+<li><a href="http://www.themaitrimovement.com/#!july-2016/wjhbl">themaitrimovement.com</a></li>
+</p>
+  </div>
+
+        </div>
+    </div>
+</section>
 
 
 
