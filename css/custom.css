@@ -152,6 +152,13 @@ header .header-content .header-content-inner p {
 .content-9 {
 /*  background-color: #99ff66; */
 }
+.content-gallery {
+  color: #fff;
+    background-color: #660066;
+    padding: 20px 0 40px;
+    text-align: center;
+}
+
 /*
 Promo setup
 */
@@ -532,6 +539,27 @@ Change color of mailto link in contact footer
 .mailto{
   color:white;
 }
+/*
+carousel css
+ */
+ .hide-bullets {
+     list-style:none;
+     margin-left: -40px;
+     margin-top:20px;
+ }
+
+ .thumbnail {
+     padding: 0;
+ }
+
+ .karousel {
+  padding: 20px;
+}
+ .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+     width: 100%;
+
+ }
+
 /*
 END
 */
