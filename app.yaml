@@ -29,9 +29,11 @@ handlers:
   static_files: googled53fc03a6d528c78.html
   upload: googled53fc03a6d528c78\.html
 
-- url: /favicon\.ico
-  static_files: favicon.ico
-  upload: favicon\.ico
+- url: /sitemap.xml
+  static_files: sitemap.xml
+  upload: sitemap\.xml
+
+
 
 # Handle folder urls by serving the index.html page inside.
 
