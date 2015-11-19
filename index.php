@@ -95,10 +95,10 @@ include('header.php');
  				</div>
              </a>
 
- 			<a href="http://martinkvist.dk/">
+ 			<a href="http://www.themaitrimovement.com/">
  				<div class="col-md-4 promo-item item-3">
  					<h3>
- 					Martin Kvist
+ 					The Maitri Movement
  					</h3>
  				</div>
              </a>
