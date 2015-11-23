@@ -80,26 +80,26 @@ include('header.php');
      <!-- Promos -->
  	<div class="container-fluid">
          <div class="row promo">
-         	<a href="http://partneracrobatics.com/">
+         	<a href="/flyinghighevents.php#PA-Thailand">
  				<div class="col-md-4 promo-item item-1">
- 					<h3>
- 					Partneracrobatics
- 					</h3>
+ 					<h4>
+ 					Partner Acrobatics Intensive Training in Thailand  2 -15 Jan 2016
+        </h4>
  				</div>
              </a>
-             <a href="http://one-minute-practice.com/en/">
+             <a href="/flyinghighevents.php#maitriMay">
  				<div class="col-md-4 promo-item item-2">
  					<h3>
- 					One Minute Practice
+ 					Spring Yoga Immersion 13-17 May 2016
  					</h3>
  				</div>
              </a>
 
- 			<a href="http://www.themaitrimovement.com/">
+ 			<a href="/flyinghighevents.php#OMPMay">
  				<div class="col-md-4 promo-item item-3">
- 					<h3>
- 					The Maitri Movement
- 					</h3>
+ 					<h4>
+            The One Minute Practice Training in Spain 20-29 May 2016
+ 					</h4>
  				</div>
              </a>
          </div>

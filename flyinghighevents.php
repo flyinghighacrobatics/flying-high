@@ -20,6 +20,7 @@ include('header.php');
     </section> <!-- End content -->
 
     <!-- Content 2 -->
+    <a name="PA-Thailand"></a>
        <section class="content content-5">
           <div class="container">
             <div class="row">
@@ -34,7 +35,7 @@ Plenty of time dedicated to improve your personal acrobatic practice and work on
 You have the option to choose.<br>
                             <br>With Martin Kvist, Niko Douwes, Lorenzo Becci, Emily Baxter and More..</p>
 
-                <a href="affiliates.php" class="btn btn-primary btn-lg">Partner Acrobatics</a>
+                <a href="affiliates.php#PA" class="btn btn-primary btn-lg">Partner Acrobatics</a>
 
                         </div>
             <div class="col-sm-6">
@@ -44,6 +45,7 @@ You have the option to choose.<br>
 </div>
     </section>
 <!-- End parter acro -->
+<a name="maitriMay"></a>
 <section class="content content-8">
     <div class="container">
         <div class="row">
@@ -72,12 +74,13 @@ More info at:
 </section>
 
     <!-- Content 6 -->
+    <a name="OMPMay"></a>
        <section class="content content-6">
           <div class="container">
             <div class="row">
                                               <div class="col-sm-6">
                             <h2 class="section-heading">The One Minute Practice Training in Spain <br>
-                            May 2016</h2>
+                          May 20th to the 29th, 2016 </h2>
                                       <p> This immersion is the first step toward becoming
                                          a One Minute Practice Practicioner.
 You will learn how to apply the One Minute Practice on yourself and others.
@@ -86,7 +89,7 @@ This program is designed to easily release many layers of tension. Addressing me
 On a beautiful retreat center in the south of Spain, you can choose to participate as much or as little as you want.
 <br>
                                         <br>With Martin, Lorenzo Becci and Emily Baxter:</p>
-          <a href="affiliates.php" class="btn btn-primary btn-lg">One Minute Practice</a>
+          <a href="affiliates.php#OMP" class="btn btn-primary btn-lg">One Minute Practice</a>
 
                                     </div>
                                     <div class="col-sm-6">

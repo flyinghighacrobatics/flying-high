@@ -34,6 +34,7 @@ include('header.php');
 
 
          <!-- Content 1 -->
+         <a name="PA"></a>
      <section class="content">
          <div class="container">
              <div class="row">
@@ -65,6 +66,7 @@ More info at:
 
 
  	<!-- Content 2 -->
+  <a name="OMP"></a>
       <section class="content content-2">
         <div class="container">
         <div class="row">
@@ -121,6 +123,8 @@ More info at:
 
 </section>
 
+<!-- The maitri movement -->
+<a name="MAITRI"></a>
 <section class="content">
     <div class="container">
         <div class="row">

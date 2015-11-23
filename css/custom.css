@@ -164,6 +164,7 @@ Promo setup
 */
 .promo,
 .promo h3,
+.promo h4,
 .promo a:link,
 .promo a:visited,
 .promo a:hover,
@@ -191,16 +192,22 @@ Promo setup
     vertical-align: middle;
 }
 
+.promo-item h4 {
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .item-1 {
 	background: url('../images/promo/item1.jpg');
 	}
 
 .item-2 {
-	background: url('../images/promo/item2.svg');
+	background: url('../images/promo/item3.jpg');
 	}
 
 .item-3 {
-	background: url('../images/promo/item3.jpg');
+	background: url('../images/promo/item2.png');
 	}
 
 
@@ -559,7 +566,22 @@ carousel css
      width: 100%;
 
  }
-
+/*
+Contact us
+*/
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
 /*
 END
 */
