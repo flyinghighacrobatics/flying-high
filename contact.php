@@ -1,87 +1,68 @@
 <?php
-$pageTitle = 'Contact - Flying High Acrobatics';
+$pageTitle = 'Contact';
 include('header.php');
+error_reporting(-1);
+ini_set('display_errors', 'On');
  ?>
- <!--sdad-->
 
- <div class="jumbotron jumbotron-sm">
-   <div class="container">
-       <div class="row">
-           <div class="col-sm-12 col-lg-12">
-               <h1 class="h1">
-                   Contact us <small>Feel free to contact us</small></h1>
-           </div>
-       </div>
-   </div>
-</div>
-<div class="container">
-   <div class="row">
-       <div class="col-md-8">
-           <div class="well well-sm">
-               <form>
-               <div class="row">
-                   <div class="col-md-6">
-                       <div class="form-group">
-                           <label for="name">
-                               Name</label>
-                           <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
-                       </div>
-                       <div class="form-group">
-                           <label for="email">
-                               Email Address</label>
-                           <div class="input-group">
-                               <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
-                               </span>
-                               <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
-                       </div>
-                       <div class="form-group">
-                           <label for="subject">
-                               Subject</label>
-                           <select id="subject" name="subject" class="form-control" required="required">
-                               <option value="na" selected="">Choose One:</option>
-                               <option value="service">General Customer Service</option>
-                               <option value="suggestions">Suggestions</option>
-                               <option value="product">Product Support</option>
-                           </select>
-                       </div>
-                   </div>
-                   <div class="col-md-6">
-                       <div class="form-group">
-                           <label for="name">
-                               Message</label>
-                           <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
-                               placeholder="Message"></textarea>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
-                           Send Message</button>
-                   </div>
-               </div>
-               </form>
-           </div>
-       </div>
-       <div class="col-md-4">
-           <form>
-           <legend><span class="glyphicon glyphicon-globe"></span>Our office</legend>
-           <address>
-               <strong>Evil Labs, Inc.</strong><br>
-               777 Folsom Ave, Suite 666<br>
-               San Francisco, CA 94107<br>
-               <abbr title="Phone">
-                   P:</abbr>
-               (+45) 42175065
-           </address>
-           <address>
-               <strong>Martin Kvist</strong><br>
-               <a href="mailto:martin@flyinghighacrobatics.com">martin@flyinghighacrobatics.com</a>
-           </address>
-           </form>
-       </div>
-   </div>
-</div>
+        <!-- Page Title -->
+        <div class="page-title-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <i class="fa fa-envelope"></i>
+                        <h1>Contact Us /</h1>
+                        <p>Here is how you can contact us.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <!-- Contact Us -->
+        <div class="contact-us-container">
+        	<div class="container">
+	            <div class="row">
+	                <div class="col-sm-7 contact-form wow fadeInLeft">
+	                    <p>
+	                    Feel free to use this form to contact us  with any questions or requests you may have...<br> Use it to request further information
+                       about a training, workshop, course, lecture or retreat. For booking personal training, privates or other programming
+                       use this form, or contact <span class='violet'>Martin</span> directly on
+                       <a href='mailto:martin@flyinghighacrobatics.com'>martin@flyinghighacrobatics.com</a>.<br>  Don't forget to subscribe
+                       to our updates.<br>    	Thank you!
+	                    </p>
+	                    <form role="form" action="assets/sendmail.php" method="post">
+	                    	<div class="form-group">
+	                    		<label for="contact-name">Name</label>
+	                        	<input type="text" name="name" placeholder="Enter your name..." class="contact-name" id="contact-name">
+	                        </div>
+	                    	<div class="form-group">
+	                    		<label for="contact-email">Email</label>
+	                        	<input type="text" name="email" placeholder="Enter your email..." class="contact-email" id="contact-email">
+	                        </div>
+	                        <div class="form-group">
+	                        	<label for="contact-subject">Subject</label>
+	                        	<input type="text" name="subject" placeholder="Your subject..." class="contact-subject" id="contact-subject">
+	                        </div>
+	                        <div class="form-group">
+	                        	<label for="contact-message">Message</label>
+	                        	<textarea name="message" placeholder="Your message..." class="contact-message" id="contact-message"></textarea>
+	                        </div>
+	                        <button type="submit" class="btn">Send</button>
+	                    </form>
+	                </div>
+	              <div class="col-sm-5 contact-address wow fadeInUp">
 
-     <?php
-     include('footer.php');
-      ?>
+	                  <h3>Where We Are, For The Moment..</h3>
+	                    <div class="map"></div>
+	                    <h3>Address <i class="fa fa-home"></i> <i class="fa fa-envelope"></i></h3>
+	                    <p>Vester Vænge Alle 33 <br> 9000, Aalborg.<br>
+                        Denmark</p>
+	                    <p>Phone: (+45) 42175065</p>
+	                </div>
+	            </div>
+	        </div>
+        </div>
+
+                 <?php
+                 include('footer.php');
+                  ?>
