@@ -71,7 +71,7 @@ jQuery(document).ready(function() {
 
     /*
 	    Subscription form
-	*/
+
 	$('.success-message').hide();
 	$('.error-message').hide();
 
@@ -103,10 +103,10 @@ jQuery(document).ready(function() {
 	        }
 	    });
 	});
-
+*/
     /*
 	    Contact form
-										*/
+*/
     $('.contact-form form').submit(function(e) {
     	e.preventDefault();
 

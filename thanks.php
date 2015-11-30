@@ -30,26 +30,7 @@ ini_set('display_errors', 'On');
                        <a href='mailto:martin@flyinghighacrobatics.com'>martin@flyinghighacrobatics.com</a>.<br>  Don't forget to subscribe
                        to our updates.<br>    	Thank you!
                       </p>
-                      <form role="form" action="assets/sendmail.php" method="post">
-	                    	<div class="form-group">
-	                    		<label for="contact-name">Name</label>
-	                        	<input type="text" name="name" placeholder="Enter your name..." class="contact-name" id="contact-name">
-	                        </div>
-	                    	<div class="form-group">
-	                    		<label for="contact-email">Email</label>
-	                        	<input type="text" name="email" placeholder="Enter your email..." class="contact-email" id="contact-email">
-	                        </div>
-	                        <div class="form-group">
-	                        	<label for="contact-subject">Subject</label>
-	                        	<input type="text" name="subject" placeholder="Your subject..." class="contact-subject" id="contact-subject">
-	                        </div>
-	                        <div class="form-group">
-	                        	<label for="contact-message">Message</label>
-	                        	<textarea name="message" placeholder="Your message..." class="contact-message" id="contact-message"></textarea>
-	                        </div>
-	                        <button type="submit" class="btn">Send</button>
-	                    </form>
-	                </div>
+                    <h3><span class='violet'>Thanks for contacting us!</span></h3>
 	              <div class="col-sm-5 contact-address wow fadeInUp">
 
 	                  <h3>Where We Are, For The Moment..</h3>

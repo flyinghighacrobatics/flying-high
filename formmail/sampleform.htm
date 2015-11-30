@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sample form for use with Tectite FormMail</title>
+</head>
+<body>
+
+<h1>Generic Sample Form</h1>
+
+    <!-- STEP 1: Put the full URL to Tectite FormMail on your website in the 'action' value. -->
+<form method="post" action="http://flyinghighacrobatics.com/fmsendmail.php" name="SampleForm">
+    <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
+
+    <!-- STEP 2: Put your email address(es) in the 'recipients' value.
+                 Note that you also have to allow this email address in the
+                 $TARGET_EMAIL setting within formmail.php!
+                 If you've set AT_MANGLE in FormMail, you can use it to hide email addresses from bots.
+    -->
+    <input type="hidden" name="recipients" value="infoiT3flyinghighacrobatics.com" />
+
+    <!-- STEP 3: Specify required fields in the 'required' value -->
+    <input type="hidden" name="required" value="email:Your email address,realname:Your name" />
+
+    <!-- STEP 4: Put your subject line in the 'subject' value. -->
+    <input type="hidden" name="subject" value="Sample FormMail Testing" />
+
+    <!-- STEP 5: Put the URL to the page you want the user to redirect to in
+        the 'good_url' value. This is a page that might say "Thanks for your
+        submission!"
+    -->
+    <input type="hidden" name="good_url" value="" />
+
+    <table border="1" cellspacing="5%">
+    <tr>
+        <td>
+        <p><b>Please enter your name:</b></p>
+        </td>
+        <td><input type="text" name="realname" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <p><b>Please enter your email address:</b></p>
+        </td>
+        <td><input type="text" name="email" />
+            <br />
+            <i>Use a different email address to the one that your results are being
+            sent to, as your mail server may reject the email if the From and To email
+            addresses are identical.</i>
+        </td>
+    </tr>
+    <tr>
+        <td><p>May we contact you?</p>
+        </td>
+        <td>
+            Yes <input type="radio" name="contact" value="Y" checked="checked" />
+            No <input type="radio" name="contact" value="N" />
+         </td>
+    </tr>
+    <tr>
+        <td><p>What are your favourite colours?</p>
+        </td>
+        <td>
+            Red     <input type="checkbox" name="colors[]" value="red" />
+            Blue    <input type="checkbox" name="colors[]" value="blue" />
+            Yellow  <input type="checkbox" name="colors[]" value="yellow" />
+         </td>
+    </tr>
+    <tr>
+        <td valign="top"><p>What vehicles do you have a license to operate?</p>
+        </td>
+        <td valign="top">
+            <select name="vehicles[]" multiple="multiple" size="5">
+                <option value="Car">Car</option>
+                <option value="Bus">Bus</option>
+                <option value="Truck">Truck</option>
+                <option value="Plane">Aeroplane</option>
+                <option value="Boat">Boat</option>
+            </select>&nbsp;(Select all that apply; use CTRL-click to select)
+         </td>
+    </tr>
+    <tr>
+        <td valign="top">
+        <p>Please enter your message:</p>
+        </td>
+        <td><textarea name="mesg" rows="10" cols="50"></textarea>
+        </td>
+    </tr>
+    <tr>
+        <td><input type="submit" value="Submit" /></td>
+        <td><!-- NOTE: do not remove the following links if you are using our Hosted Forms on a Free Plan.
+     Removing the links will cause your form to be disabled! You can upgrade to a paid plan
+     and then safely remove the links.
+     If you are using your own copy of FormMail, you can remove the links without an issue,
+     though we would appreciate it if you left them here.
+-->
+<a id="PoweredByLink" class="PoweredByFormMail" href="http://www.tectite.com/" target="_blank"><img id="PoweredByImg" src="http://www.tectite.com/images/FormMail_rnd_blue.png" alt="Badge for Tectite supplied contact form" title="Use Tectite FormMail for your contact form" border="0" /></a></td>
+    </tr>
+    </table>
+</form>
+</body>
+</html>

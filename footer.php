@@ -8,9 +8,29 @@
                   <p>
                   Building trust ,and turning sparks of possibility into flames of achievement, all over the world...
                   </p>
-                  <p><a href="fhabout.php">Read more...</a></p>
+                  <p><a href="about.php">Read more...</a></p>
                 </div>
             </div>
+            <!-- mailchimp -->
+            <!-- Begin MailChimp Signup Form -->
+            <div class="col-sm-3 footer-box footer-box-text footer-box-text-subscribe wow fadeInDown">
+
+                  <div id="mc_embed_signup">
+                  <form action="//flyinghighacrobatics.us11.list-manage.com/subscribe/post?u=74986ceec05d2cd314d52c92c&amp;id=baa729c35b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                      <div id="mc_embed_signup_scroll">
+                  	<label for="mce-EMAIL">Subscribe for news and upcoming events</label>
+                  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_74986ceec05d2cd314d52c92c_baa729c35b" tabindex="-1" value=""></div>
+                      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                      </div>
+                  </form>
+                  </div>
+</div>
+
+                  <!--End mc_embed_signup-->
+
+            <!--mailchimp
             <div class="col-sm-3 footer-box wow fadeInDown">
                 <h4>Email Updates</h4>
                 <div class="footer-box-text footer-box-text-subscribe">
@@ -25,7 +45,8 @@
                 <p class="success-message"></p>
                 <p class="error-message"></p>
                 </div>
-            </div>
+            </div>-->
+            <!-- Fb like button-->
             <div class="col-sm-3 footer-box wow fadeInUp">
                 <h4>Like us on Facebook</h4>
                 <div class="footer-box-text">
@@ -41,6 +62,7 @@
 </div>
 </div>
 </div>
+<!-- end fb-->
             <div class="col-sm-3 footer-box wow fadeInDown">
                 <h4>Contact Us</h4>
                 <div class="footer-box-text footer-box-text-contact">
@@ -85,7 +107,7 @@
 <script src="assets/js/masonry.pkgd.min.js"></script>
 <script src="http://maps.google.com/maps/api/js"></script>
 <script src="assets/js/jquery.ui.map.min.js"></script>
-<script src="assets/js/scripts.js"></script>
+<script src="assets/js/fmsendmailscripts.js"></script>
 
 
 <!-- Lorenzo-s shit -->

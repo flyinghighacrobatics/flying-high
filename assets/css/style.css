@@ -163,7 +163,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #9d426b
 /*	width: 167px;
 	height: 106px;
 	/*background: url(../img/logo.png) left center no-repeat;
-	text-indent: 0px; 
+	text-indent: 0px;
   font-size: 28px;
 line-height: 44px;
   color: #eaeaea; */
@@ -507,6 +507,33 @@ footer {
 .footer-box-text-subscribe input[type="text"] {
 	width: 95%;
 	height: 26px;
+}
+
+/*Mailchimp signup
+*/
+
+#mc_embed_signup{
+  margin-top: 20px;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 14px;
+  color: #5d5d5d;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 rgba(255,255,255,.7);
+
+  }
+
+input.button{
+  display: inline-block;
+  margin-top: 5px;
+    padding: 5px 22px;
+    background: #9d426b;
+    color: #fff;
+    font-style: italic;
+    text-decoration: none;
+    -moz-box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    -webkit-box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
 }
 
 /* Flickr feed */
