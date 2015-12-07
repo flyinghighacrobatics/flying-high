@@ -38,9 +38,8 @@ include('header.php');
                                 <li data-thumb="assets/img/slider/4.jpg">
                                     <img src="assets/img/slider/4.jpg">
                                     <div class="flex-caption">
-                                      Trust is the glue of life. It's the most essential ingredient in effective communication.
-                                      It's the foundational principle that holds all relationships.
-                                      <span class='violet'>Stephen Covey</span>
+                                      Sometimes the right path is not the easiest one.
+                                      <span class='violet'>.....</span>
                                                                         </div>
                                 </li>
                             </ul>
