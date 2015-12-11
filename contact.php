@@ -55,7 +55,7 @@ ini_set('display_errors', 'On');
 	                  <h3>Where We Are, For The Moment..</h3>
 	                    <div class="map"></div>
 	                    <h3>Address <i class="fa fa-home"></i> <i class="fa fa-envelope"></i></h3>
-	                    <p>Vester Vænge Alle 33 <br> 9000, Aalborg.<br>
+	                    <p>Flying High Acrobatics IVS <br>Vester Vænge Alle 33 <br> 9000, Aalborg.<br>
                         Denmark</p>
 	                    <p>Phone: (+45) 42175065</p>
 	                </div>

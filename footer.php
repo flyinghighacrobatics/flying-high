@@ -80,7 +80,7 @@
         </div>
         <div class="row">
             <div class="col-sm-7 footer-copyright wow fadeIn">
-                <p>Copyright &copy; Flyinghighacrobatics.com 2015 - Photo Credit:
+                <p>Copyright &copy; Flying High Acrobatics IVS 2015 - Photo Credit:
                   Melanie Höld, Monika Kolb, Melanie Lo, Vanille Simeon. Template by <a href="http://azmind.com">Azmind</a></p>
 
             </div>
