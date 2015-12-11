@@ -66,9 +66,10 @@
             <div class="col-sm-3 footer-box wow fadeInDown">
                 <h4>Contact Us</h4>
                 <div class="footer-box-text footer-box-text-contact">
-                  <p><i class="fa fa-map-marker"></i> Address: Aalborg, Nordjylland, Denmark</p>
+                  <p><i class="fa fa-user"></i>Flying High Acrobatics IVS </p>
+                  <p><i class="fa fa-map-marker"></i>Vester Vænge Alle 33 <br>9000 Aalborg,<br> Nordjylland, Denmark</p>
                   <p><i class="fa fa-phone"></i> Phone: (+45) 42175064</p>
-                  <p><i class="fa fa-user"></i> Skype: </p>
+
                   <p><i class="fa fa-envelope"></i> Email: <a href="">info@flyinghighacrobatics.com</a></p>
                 </div>
             </div>
