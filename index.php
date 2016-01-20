@@ -13,8 +13,8 @@ include('header.php');
                     <div class="col-sm-10 col-sm-offset-1 slider">
                         <div class="flexslider">
                             <ul class="slides">
-                                <li data-thumb="assets/img/slider/1.jpg">
-                                    <img src="assets/img/slider/1.jpg">
+                                <li data-thumb="assets/img/slider/6.jpg">
+                                    <img src="assets/img/slider/6.jpg">
                                     <div class="flex-caption">
                                       To be trusted is a greater compliment than being loved.<span class='violet'> George MacDonald</span>
                                     </div>
@@ -35,8 +35,8 @@ include('header.php');
                                       <span class='violet'>Walter Anderson</span>
                                     </div>
                                 </li>
-                                <li data-thumb="assets/img/slider/4.jpg">
-                                    <img src="assets/img/slider/4.jpg">
+                                <li data-thumb="assets/img/slider/7.jpg">
+                                    <img src="assets/img/slider/7.jpg">
                                     <div class="flex-caption">
                                       Sometimes the right path is not the easiest one.
                                       <span class='violet'>.....</span>
