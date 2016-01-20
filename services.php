@@ -46,7 +46,7 @@
 	            <div class="row">
 	            	<div class="col-sm-3">
 		                <div class="service wow fadeInUp">
-		                    <div class="service-icon"><i class="fa fa-eye"></i></div>
+		                  <img src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
                         <h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
 		                    <p>Flying High Acrobatics offers trainings, workshops, lectures, personal training, performance enhancement,
                         injury prevention, rehab, and much more related to Acrobatics and Acro Yoga. Check out our upcoming
