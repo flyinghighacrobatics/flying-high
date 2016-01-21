@@ -46,15 +46,8 @@
 	            <div class="row">
 	            	<div class="col-sm-3">
 		                <div class="service wow fadeInUp">
-<<<<<<< HEAD
 		                  <img src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
                         <h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
-=======
-                      <img class="img-thumbnail"  src="assets/img/portfolio/hsttr.jpg" alt="" data-at2x="assets/img/portfolio/hsttr.jpg">
-
-		                  <!--  <div class="service-icon"><i class="fa fa-eye"></i></div>
-                      --><h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
->>>>>>> 893b0aba3d6c64a0833fc73a6833877b5e962d17
 		                    <p>Flying High Acrobatics offers trainings, workshops, lectures, personal training, performance enhancement,
                         injury prevention, rehab, and much more related to Acrobatics and Acro Yoga. Check out our upcoming
                         Acrobatic events on the events page or contact  us to organise a training near you...</p>
@@ -63,14 +56,16 @@
 					</div>
 					<div class="col-sm-3">
 		                <div class="service wow fadeInDown">
-		                    <div class="service-icon"><i class="fa fa-table"></i></div>
+		                    <img class="img-thumbnail" src="assets/img/icons/sport.jpg" alt="Programming.." data-at2x="assets/img/icons/sport.jpg">
                         <h3>Programming, Privates and Personal Training </h3>
 		                    <p>From performance enhancing personal strength training programs, to complete injury re- and pre- habilitation programs
-                          or even complete teacher training or event programming...</p>  </div>
+                          or even complete teacher training or event programming...</p>
+                          <a class="big-link-1" href="#">Contact Us!</a>
+                         </div>
 	                </div>
 	                <div class="col-sm-3">
 		                <div class="service wow fadeInUp">
-		                    <div class="service-icon"><i class="fa fa-magic"></i></div>
+		                  <img class="img-thumbnail" src="assets/img/icons/program.jpg" alt="Programming.." data-at2x="assets/img/icons/program.jpg">
                         <h3>Sport Science, Communication & Education</h3>
 		                    <p>Communicating scientific concepts to future educators, and linking the world of science and technology to society at large
                           .From subjects like the neuroscience of learning acrobatic skills,  to the biomechanics of injury prevention,
