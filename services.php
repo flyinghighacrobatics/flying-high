@@ -119,11 +119,11 @@
 	            <div class="row">
 	                <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
 	                    <p>
-	                    	Lorem ipsum <span class="violet">dolor sit amet</span>, consectetur adipisicing elit,
-	                    	sed do eiusmod tempor incididunt ut labore et ut wisi.
+	                    	The event you have been waiting for is here! Together with Partner Acrobatics we present <span class="violet">Advanced Acrobatics Training</span>, nine days of flying high acrobatics
+                        at an amazing location in Andalusia, Spain.
 	                    </p>
 	                    <div class="call-to-action-button">
-	                        <a class="big-link-3" href="#">Try It Now!</a>
+	                        <a class="big-link-3" href="#">Sign Up Now!</a>
 	                    </div>
 	                </div>
 	            </div>

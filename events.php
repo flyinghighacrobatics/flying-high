@@ -33,17 +33,29 @@ include('header.php');
 	            	<div class="col-sm-12 portfolio-masonry">
 		                <div class="portfolio-box acrobatics">
 		                	<div class="portfolio-box-container">
-			                	<img src="assets/img/portfolio/work4.jpg" alt="" data-at2x="assets/img/portfolio/work4.jpg">
+			                	<img src="assets/img/portfolio/phuket2t.jpg" alt="" data-at2x="assets/img/portfolio/phuket2t.jpg">
 			                	<div class="portfolio-box-text">
-                          <h3>Partner Acrobatics Intensive Training in Thailand <br>
-                          Jan 2 -15. 2016</h3>
-  		                    <p>A 2 week long Intensive Training in Partner Acrobatics.<br>
+                          <h3>Acro & Inversion series Koh Yao Noi, Phuket - Thailand.</h3>
+  		                    <p> Martin Kvist, founder of flyinghighacrobatics.com  & Vanille Siméon from themaitrimovement.com
+                            will be offering a new series of workshops In Phuket, Thailand. <br><br>
+                            <ul>
+                            <li>Feb 8th: Inversions & Handstands MasterClass
+                            <li>Feb 9th: Balance & Counterbalances
+                            <li>Feb 10th: Playfuls flows
+                            <li>Feb 11th: Building up trust and confidence
+                            <li>Times to be confirmed
+                            </ul>
+                            Location of the workshops: Island Yoga, Koh Yao Noi (easy access from Phuket & Krabi), Thailand
+                            <a href="http://www.thailandyogaretreats.com/getting-here.htm">Getting there</a><br><br>
 
-  This program will give you the chance to refine your Acro skills and to have loads of fun.
-  Plenty of time dedicated to improve your personal acrobatic practice and work on the aesthetics of your acro moves.
-  6 or more hours per week will be dedicated for Therapeutics to restore your body.
-  You have the option to choose.<br>
-                            <br>With Martin Kvist, Niko Douwes, Lorenzo Becci, Emily Baxter and More..</p>
+                            Fees: 400 bht per workshop - discounted 1400bth for the 4 workshops together.
+                            <br>
+
+                            More info:
+                            maitrimovement@gmail.com
+
+                            </p>
+                            <a class="big-link-1" href="http://goo.gl/forms/v3nOAcLz1I">Sign up now!</a>
                           </div>
 			                </div>
 		                </div>
@@ -90,7 +102,7 @@ They will be led in English, with occasional translation into French if needed.-
                       </div>
                     </div>
 
-		                <div class="portfolio-box treatment">
+		              <!--  <div class="portfolio-box treatment">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work5.jpg" alt="" data-at2x="assets/img/portfolio/work5.jpg">
 		                		<div class="portfolio-box-text">
@@ -107,7 +119,7 @@ They will be led in English, with occasional translation into French if needed.-
   <a class="big-link-1" href="http://one-minute-practice.com">Go to site</a>
 		                		</div>
 	                		</div>
-		                </div>
+		                </div> -->
 		                <div class="portfolio-box yoga">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work10.jpg" alt="" data-at2x="assets/img/portfolio/work10.jpg">
@@ -128,7 +140,7 @@ They will be led in English, with occasional translation into French if needed.-
 		                		</div>
 	                		</div>
 		                </div>
-		                <div class="portfolio-box treatment">
+		              <!--  <div class="portfolio-box treatment">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work5.jpg" alt="" data-at2x="assets/img/portfolio/work5.jpg">
 
@@ -147,7 +159,7 @@ They will be led in English, with occasional translation into French if needed.-
                           <a class="big-link-1" href="http://one-minute-practice.com">Go to site</a>
 		                		</div>
 	                		</div>
-		                </div>
+		                </div> -->
 
 	                </div>
 	            </div>
@@ -181,6 +193,19 @@ They will be led in English, with occasional translation into French if needed.-
               </div>
               <div class="row">
                 <div class="col-sm-12 portfolio-masonry">
+
+                  <div class="portfolio-box acrobatics">
+                    <div class="portfolio-box-container">
+                      <img src="assets/img/portfolio/work4.jpg" alt="" data-at2x="assets/img/portfolio/work4.jpg">
+                      <div class="portfolio-box-text">
+                        <h3>Partner Acrobatics Intensive Training in Thailand <br>
+                        Jan 2 -15. 2016</h3>
+                        <p>A 2 week long Intensive Training in Partner Acrobatics.<br>
+
+                          <br>With Martin Kvist, Niko Douwes, Lorenzo Becci, Emily Baxter and More..</p>
+                        </div>
+                    </div>
+                  </div>
 
                  <div class="portfolio-box acrobatics">
                       <div class="portfolio-box-container">

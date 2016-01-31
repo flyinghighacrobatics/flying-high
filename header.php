@@ -139,18 +139,18 @@
 						<li>
 							<a href="events.php"><i class="fa fa-camera"></i><br>Events</a>
 						</li>
-					<li>
+				<!--	<li>
 							<a href="services.php"><i class="fa fa-tasks"></i><br>Services</a>
-						</li>
+						</li> -->
 						<li>
 							<a href="about.php"><i class="fa fa-user"></i><br>About</a>
 						</li>
 					<!--	<li>
 							<a href="affiliates.php"><i class="fa fa-user"></i><br>Affiliates</a>
 						</li>-->
-            <li>
+          <!--  <li>
 							<a href="contact.php"><i class="fa fa-user"></i><br>Contact</a>
-						</li>
+						</li> -->
 				<!--		<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000">
 								<i class="fa fa-paperclip"></i><br>Pages <span class="caret"></span>

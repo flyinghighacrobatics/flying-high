@@ -7,7 +7,7 @@
  * http://www.gnu.org/licenses/gpl-2.0.html
  *
  * Contributing author: Ville Ristimäki (@villeristi)
- * 
+ *
  */
 
 
@@ -49,7 +49,7 @@
 //
 
 .box-shadow( @x-axis: 0, @y-axis: 1px, @blur: 2px, @color: rgba( 0, 0, 0, 0.1 ), @inset: '' ) {
-  
+
   -webkit-box-shadow: @inset @x-axis @y-axis @blur @color;
      -moz-box-shadow: @inset @x-axis @y-axis @blur @color;
        -o-box-shadow: @inset @x-axis @y-axis @blur @color;
@@ -103,9 +103,9 @@
 .slides,
 .flex-control-nav,
 .flex-direction-nav {
-  
-  margin: 0; 
-  padding: 0; 
+
+  margin: 0;
+  padding: 0;
   list-style: none;
 
 }
@@ -127,14 +127,14 @@
 
 .flexslider {
 
-  margin: 0; 
+  margin: 0;
   padding: 0;
 
   .slides {
 
     > li {
 
-      display: none; 
+      display: none;
       -webkit-backface-visibility: hidden;
 
     }
@@ -153,36 +153,36 @@
 
     &:after{
 
-      content: "\0020"; 
-      display: block; 
-      clear: both; 
-      visibility: hidden; 
-      line-height: 0; 
+      content: "\0020";
+      display: block;
+      clear: both;
+      visibility: hidden;
+      line-height: 0;
       height: 0;
 
 
     }
 
     html[xmlns] &{
-      
+
       display: block;
 
     }
 
     * html &{
-      
+
       height: 1%;
 
     }
 
 
-    
-     // 
+
+     //
      // No JavaScript Fallback
      // If you are not using another script, such as Modernizr, make sure you
      // include js that eliminates this class on page load
-     // 
-    
+     //
+
 
     .no-js &{
 
@@ -207,13 +207,13 @@
  * ====================================================================================================================*/
 
 
-.flexslider { 
+.flexslider {
 
-  margin: 0 0 60px; 
-  background: #fff; 
-  border: 4px solid #fff; 
+  margin: 0 0 60px;
+  background: #fff;
+  border: 4px solid #fff;
   position: relative;
-  zoom: 1; 
+  zoom: 1;
 
   .border-radius( 4px );
   .box-shadow( 0, 1px, 4px, rgba( 0, 0, 0, 0.2 ));
@@ -225,9 +225,9 @@
   }
 }
 
-.flex-viewport { 
+.flex-viewport {
 
-  max-height: 2000px; 
+  max-height: 2000px;
 
   .transition();
 
@@ -238,9 +238,9 @@
   }
 }
 
-.carousel li { 
+.carousel li {
 
-  margin-right: 5px; 
+  margin-right: 5px;
 
 }
 
@@ -253,39 +253,39 @@
 
   *height: 0;
 
-  
+
   //
   // Global styles
   //
 
-  a  { 
+  a  {
 
-    text-decoration:none; 
-    display: block; 
-    width: 40px; 
-    height: 40px; 
-    margin: -20px 0 0; 
-    position: absolute; 
-    top: 50%; 
-    z-index: 10; 
-    overflow: hidden; 
-    opacity: 0; 
-    cursor: pointer; 
-    color: rgba(0,0,0,0.8); 
+    text-decoration:none;
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: -20px 0 0;
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    overflow: hidden;
+    opacity: 0;
+    cursor: pointer;
+    color: rgba(0,0,0,0.8);
     text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.3 );
 
     .transition( 0.3s, ease-in-out );
 
-    &:before  { 
+    &:before  {
 
-      font-family: "flexslider-icon"; 
-      font-size: 40px; 
-      display: inline-block; 
+      font-family: "flexslider-icon";
+      font-size: 40px;
+      display: inline-block;
       content: '\f001';
 
     }
 
-    &.flex-next:before { 
+    &.flex-next:before {
 
       content: '\f002';
 
@@ -298,7 +298,7 @@
   // Prev
   //
 
-  .flex-prev { 
+  .flex-prev {
 
     left: -50px;
 
@@ -309,9 +309,9 @@
   // Next
   //
 
-  .flex-next { 
-    
-    right: -50px; 
+  .flex-next {
+
+    right: -50px;
     text-align: right;
 
   }
@@ -322,29 +322,29 @@
   //
 
   .flexslider:hover &{
-    
-    .flex-prev { 
 
-      opacity: 0.7; 
+    .flex-prev {
+
+      opacity: 0.7;
       left: 10px;
 
       &:hover{
-        
+
         opacity: 1;
 
       }
 
     }
-    
-    .flex-next { 
 
-      opacity: 0.7; 
+    .flex-next {
+
+      opacity: 0.7;
       right: 10px;
 
       &:hover{
-        
+
         opacity: 1;
-        
+
       }
 
     }
@@ -356,10 +356,10 @@
   // Disabled
   //
 
-  .flex-disabled { 
+  .flex-disabled {
 
-    opacity: 0!important; 
-    filter: alpha(opacity=0); 
+    opacity: 0!important;
+    filter: alpha(opacity=0);
     cursor: default;
 
   }
@@ -372,23 +372,23 @@
 
 .flex-pauseplay a {
 
-  display: block; 
-  width: 20px; 
-  height: 20px; 
-  position: absolute; 
-  bottom: 5px; 
-  left: 10px; 
-  opacity: 0.8; 
-  z-index: 10; 
-  overflow: hidden; 
-  cursor: pointer; 
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+  opacity: 0.8;
+  z-index: 10;
+  overflow: hidden;
+  cursor: pointer;
   color: #000;
 
-  &:before { 
+  &:before {
 
-    font-family: "flexslider-icon"; 
-    font-size: 20px; 
-    display: inline-block; 
+    font-family: "flexslider-icon";
+    font-size: 20px;
+    display: inline-block;
     content: '\f004';
 
   }
@@ -399,7 +399,7 @@
 
   }
 
-  .flex-play:before { 
+  .flex-play:before {
 
     content: '\f003';
 
@@ -414,16 +414,16 @@
 
 .flex-control-nav {
 
-  width: 100%; 
-  position: absolute; 
-  bottom: -40px; 
+  width: 100%;
+  position: absolute;
+  bottom: -40px;
   text-align: center;
 
   li {
-    
-    margin: 0 6px; 
-    display: inline-block; 
-    zoom: 1; 
+
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1;
     *display: inline;
 
   }
@@ -439,25 +439,25 @@
 
   a {
 
-    width: 11px; 
-    height: 11px; 
-    display: block; 
-    background: #666; 
-    background: rgba(0,0,0,0.5); 
-    cursor: pointer; 
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #666;
+    background: rgba(0,0,0,0.5);
+    cursor: pointer;
     text-indent: -9999px;
 
     .box-shadow( 0, 0, 3px, rgba(0,0,0,0.3), inset );
     .border-radius( 20px );
 
-    &:hover { 
+    &:hover {
 
-      background: #333; 
+      background: #333;
       background: rgba(0,0,0,0.7);
 
     }
 
-    &.flex-active { 
+    &.flex-active {
 
       background: #000;
       background: rgba( 0, 0, 0, 0.9 );
@@ -470,23 +470,23 @@
 
 .flex-control-thumbs {
 
-  margin: 5px 0 0; 
-  position: static; 
+  margin: 5px 0 0;
+  position: static;
   overflow: hidden;
 
   li {
 
-    width: 25%; 
-    float: left; 
+    width: 25%;
+    float: left;
     margin: 0;
 
   }
 
   img {
-  
-    width: 100%; 
-    display: block; 
-    opacity: .7; 
+
+    width: 100%;
+    display: block;
+    opacity: .7;
     cursor: pointer;
 
     .transition();
@@ -497,7 +497,7 @@
 
   .flex-active {
 
-    opacity: 1; 
+    opacity: 1;
     cursor: default;
 
   }
@@ -515,16 +515,16 @@
 
   .flex-direction-nav{
 
-    .flex-prev { 
+    .flex-prev {
 
-      opacity: 1; 
+      opacity: 1;
       left: 10px;
 
     }
 
-    .flex-next { 
+    .flex-next {
 
-      opacity: 1; 
+      opacity: 1;
       right: 10px;
 
     }

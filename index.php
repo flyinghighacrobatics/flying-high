@@ -13,30 +13,30 @@ include('header.php');
                     <div class="col-sm-10 col-sm-offset-1 slider">
                         <div class="flexslider">
                             <ul class="slides">
-                                <li data-thumb="assets/img/slider/6.jpg">
-                                    <img src="assets/img/slider/6.jpg">
+                                <li data-thumb="assets/img/slider/16.jpg">
+                                    <img src="assets/img/slider/F2HCollage.jpg">
                                     <div class="flex-caption">
                                       To be trusted is a greater compliment than being loved.<span class='violet'> George MacDonald</span>
                                     </div>
                                 </li>
-                                <li data-thumb="assets/img/slider/2.jpg">
-                                    <img src="assets/img/slider/2.jpg">
+                                <li data-thumb="assets/img/slider/19.jpg">
+                                    <img src="assets/img/slider/19.jpg">
                                     <div class="flex-caption">
                                       Trust yourself. Create the kind of self that you will be happy to live with all your life.
-                                      Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.
+                                     Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.
                                       <span class='violet'>Golda Meir</span>
                                     </div>
                                 </li>
-                                <li data-thumb="assets/img/slider/3.jpg">
-                                    <img src="assets/img/slider/3.jpg">
+                                <li data-thumb="assets/img/slider/17.jpg">
+                                    <img src="assets/img/slider/17@2x.jpg">
                                     <div class="flex-caption">
                                       We're never so vulnerable than when we trust someone -
                                       but paradoxically, if we cannot trust, neither can we find love or joy.
                                       <span class='violet'>Walter Anderson</span>
                                     </div>
                                 </li>
-                                <li data-thumb="assets/img/slider/7.jpg">
-                                    <img src="assets/img/slider/7.jpg">
+                                <li data-thumb="assets/img/slider/18.jpg">
+                                    <img src="assets/img/slider/18@2x.jpg">
                                     <div class="flex-caption">
                                       Sometimes the right path is not the easiest one.
                                       <span class='violet'>.....</span>
@@ -67,8 +67,137 @@ include('header.php');
         	</div>
         </div>
 
-        <!-- Services -->
+        <!-- Services Full Width Text -->
+        <div class="services-full-width-container">
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-12 services-full-width-text wow fadeInLeft">
+                      <h3>Take Your Training To The Next Level</h3>
+                      <p>
+                        <span class="violet">Flying High Acrobatics</span> offers <strong>trainings, workshops, lectures, personal training, performance enhancement,
+                        injury prevention, rehab, and much more.</strong> We work with highly educated instructors and experienced partners
+                          to offer quality events all over the world. We have the <strong>educational background</strong>
+                          and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
+                          From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
+                          teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.
+                        <strong>We strongly belive in,  <span class="violet">practicing in a sustainable way, empowering practicioners with knowlede,</span></strong> and getting rid of the myths,
+                        and the bad practices, by <strong>embracing</strong> neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> .
+                          We operate at <strong>the forefront of Sport and Exercise Science</strong>,
+                          and <span class="violet">we want to take your training to the next level!</span> <strong>Are you ready?</strong>
+
+                    </p>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <!-- Services  class="img-responsive img-circle"-->
         <div class="services-container">
+          <div class="container">
+              <div class="row">
+                <div class="col-sm-3">
+                    <div class="service wow fadeInUp">
+                      <img src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
+                        <h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
+                        <p>Flying High Acrobatics offers trainings, workshops, lectures, personal training, performance enhancement,
+                        injury prevention, rehab, and much more related to Acrobatics and Acro Yoga. Check out our upcoming
+                        Acrobatic events on the events page or contact  us to organise a training near you...</p>
+                         <a class="big-link-1" href="events.php">Acrobatic Events</a>
+                       </div>
+          </div>
+          <div class="col-sm-3">
+                    <div class="service wow fadeInDown">
+                        <img class="img-thumbnail" src="assets/img/icons/program.jpg" alt="Programming.." data-at2x="assets/img/icons/program.jpg">
+                        <h3>Programming, Privates and Personal Training </h3>
+                        <p>From performance enhancing personal strength training programs, to complete injury re- and pre- habilitation programs
+                          or even complete teacher training or event programming. We have the <strong>educational background</strong>
+                          and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
+                          From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
+                          teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.</p>
+                          <a class="big-link-1" href="#">Contact Us!</a>
+                         </div>
+                  </div>
+                  <div class="col-sm-3">
+                    <div class="service wow fadeInUp">
+                      <img class="img-thumbnail" src="assets/img/icons/sport.jpg" alt="Programming.." data-at2x="assets/img/icons/sport.jpg">
+                        <h3>Sport Science, Communication & Education</h3>
+                        <p>Communicating scientific concepts to future educators, and linking the world of science and technology to society at large
+                          .From subjects like the neuroscience of learning acrobatic skills,  to the biomechanics of injury prevention,
+                            we are continually pursuing a better understanding of injury causality,
+                             injury prevention, and performance enhancement in acrobatic sports....</p>
+                           </div>
+                  </div>
+                  <div class="col-sm-3">
+                    <div class="service wow fadeInDown">
+                        <div class="service-icon"><i class="fa fa-print"></i></div>
+                        <h3>Yoga</h3>
+                        <p>Developing sustainable practices and empowering
+                         practicioners with knowlede. Dispelling the myths, and the bad practices, by <strong>embracing</strong>
+                         neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> ....
+                      <br>
+                          See our upcoming and previous Yoga events on the events page for more info...</p>
+                        <a class="big-link-1" href="events.php">Yoga Events</a>
+                    </div>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <!-- Services Half Width Text -->
+      <!--  <div class="services-half-width-container">
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-6 services-half-width-text wow fadeInLeft">
+                    <h3>Sport Science, Communication & Education</h3>
+                    <p>
+
+                      Communicating scientific concepts to future educators, and linking the world of science and technology to society at large
+                      .From subjects like the neuroscience of learning acrobatic skills,  to the biomechanics of injury prevention,
+                        we are continually pursuing a better understanding of injury causality,
+                         injury prevention, and performance enhancement in acrobatic sports. Developing sustainable practices and empowering
+                          practicioners with knowlede. Dispelling the myths, and the bad practices, by <strong>embracing</strong>
+                          neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> ....
+                       </p>
+                  </div>
+                  <div class="col-sm-6 services-half-width-text wow fadeInUp">
+                    <h3>Programming, Privates and Personal Training </h3>
+                    <p>From performance enhancing personal strength training programs, to complete injury re- and pre- habilitation programs
+                      or even complete teacher training or event programming. We have the <strong>educational background</strong>
+                      and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
+                      From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
+                      teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.</p>
+                  </div>
+              </div>
+          </div>
+        </div>
+-->
+        <!-- Call To Action -->
+        <div class="call-to-action-container">
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+                      <p>
+                        The event you have been waiting for is here! Together with Partner Acrobatics we present <span class="violet">Advanced Acrobatics Training</span>, nine days of flying high acrobatics
+                        at an amazing location in Andalusia, Spain.
+                      </p>
+                      <div class="call-to-action-button">
+                          <a class="big-link-3" href="/event-advmay.php">Read more!</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+     <!-- Services -->
+      <!--     <div class="services-container">
 	        <div class="container">
 	            <div class="row">
 	            	<div class="col-sm-3">
@@ -112,9 +241,9 @@ include('header.php');
 	            </div>
 	        </div>
         </div>
-
+-->
         <!-- Latest work -->
-        <div class="work-container">
+    <!--    <div class="work-container">
 	        <div class="container">
 	        	<div class="row">
 		            <div class="col-sm-12 work-title wow fadeIn">
@@ -200,7 +329,7 @@ On a beautiful retreat center in the south of Spain, you can choose to participa
 	            </div>
 	        </div>
         </div>
-
+-->
         <!-- Testimonials
         <div class="testimonials-container">
 	        <div class="container">
