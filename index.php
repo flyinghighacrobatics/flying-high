@@ -129,7 +129,7 @@ include('header.php');
                   </div>
                   <div class="col-sm-3">
                     <div class="service wow fadeInDown">
-                        <div class="service-icon"><i class="fa fa-print"></i></div>
+                          <img class="img-thumbnail" src="assets/img/portfolio/work11.jpg" alt="Yoga" data-at2x="assets/img/portfolio/work11.jpg">
                         <h3>Yoga</h3>
                         <p>Developing sustainable practices and empowering
                          practicioners with knowlede. Dispelling the myths, and the bad practices, by <strong>embracing</strong>

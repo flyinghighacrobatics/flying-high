@@ -136,29 +136,43 @@
 								<a href="index.php"><i class="fa fa-home"></i><br>Home</a>
                 </li>
 
-						<li>
+						<!-- <li>
 							<a href="events.php"><i class="fa fa-camera"></i><br>Events</a>
-						</li>
+						</li> -->
 				<!--	<li>
 							<a href="services.php"><i class="fa fa-tasks"></i><br>Services</a>
 						</li> -->
 						<li>
 							<a href="about.php"><i class="fa fa-user"></i><br>About</a>
 						</li>
-					<!--	<li>
-							<a href="affiliates.php"><i class="fa fa-user"></i><br>Affiliates</a>
-						</li>-->
+						<li>
+							<a href="affiliates.php"><i class="fa fa-globe"></i><br>Affiliates</a>
+						</li>
           <!--  <li>
 							<a href="contact.php"><i class="fa fa-user"></i><br>Contact</a>
 						</li> -->
-				<!--		<li class="dropdown">
+						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000">
-								<i class="fa fa-paperclip"></i><br>Pages <span class="caret"></span>
+								<i class="fa fa-camera"></i><br>Events<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="pricing-tables.php">Pricing tables</a></li>
+								<li><a href="events.php">All Events</a></li>
+                <li><a href="event-advmay.php">Advanced Acrobatics Intensive Andalusia,Spain May 20-29th</a></li>
+                <li><a href="#">Inversions & Acro Koh Yoa Noi,Phuket Feb 8-11th</a></li>
+                <li><a href="event-mindmov.php">Mindful Moves ...</a></li>
 							</ul>
-						</li>-->
+						</li>
+            		<li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000">
+                    <i class="fa fa-paperclip"></i><br>Resources<span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Manuscripts</a></li>
+                    <li><a href="#">Acro Manual</a></li>
+                    <li><a href="#">Other</a></li>
+
+                  </ul>
+                </li>
 					</ul>
 				</div>
 			</div>

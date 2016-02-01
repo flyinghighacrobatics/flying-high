@@ -138,6 +138,31 @@ include('header.php');
        		                    </div> -->
        		                </div>
        	                </div>
+
+                        <div class="col-sm-3">
+                            <div class="team-box wow fadeInUp">
+                                <img src="assets/img/team/6.jpg" alt="" data-at2x="assets/img/team/6.jpg">
+                                <h3>Barefootyoga.me</h3>
+                                <p><b> Ishine Photography</b>
+                      <br>
+
+                      <b>More info at:</b>
+                      <a href="http://barefootyoga.me/en/">barefootyoga.me</a>
+                      </p>
+
+                                <div class="team-social">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <!-- <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-envelope"></i></a> -->
+                                </div>
+                            </div>
+                          </div>
+
+
+
+
+
        	            </div>
        	        </div>
                </div>

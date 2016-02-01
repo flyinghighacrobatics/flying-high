@@ -36,22 +36,13 @@ include('header.php');
 			                	<img src="assets/img/portfolio/phuket2t.jpg" alt="" data-at2x="assets/img/portfolio/phuket2t.jpg">
 			                	<div class="portfolio-box-text">
                           <h3>Acro & Inversion series Koh Yao Noi, Phuket - Thailand.</h3>
-  		                    <p> Martin Kvist, founder of flyinghighacrobatics.com  & Vanille Siméon from themaitrimovement.com
-                            will be offering a new series of workshops In Phuket, Thailand. <br><br>
-                            <ul>
-                            <li>Feb 8th: Inversions & Handstands MasterClass
-                            <li>Feb 9th: Balance & Counterbalances
-                            <li>Feb 10th: Playfuls flows
-                            <li>Feb 11th: Building up trust and confidence
-                            <li>Times to be confirmed
-                            </ul>
-                            Location of the workshops: Island Yoga, Koh Yao Noi (easy access from Phuket & Krabi), Thailand
-                            <a href="http://www.thailandyogaretreats.com/getting-here.htm">Getting there</a><br><br>
+  		                    <p>
+                            Feb 8th: Inversions & Handstands MasterClass <br>
+                            Feb 9th: Balance & Counterbalances <br>
+                          Feb 10th: Playfuls flows <br>
+                          Feb 11th: Building up trust and confidence <br>
 
-                            Fees: 400 bht per workshop - discounted 1400bth for the 4 workshops together.
-                            <br>
-
-                            More info:
+                            More info:<br>
                             maitrimovement@gmail.com
 
                             </p>
@@ -60,19 +51,31 @@ include('header.php');
 			                </div>
 		                </div>
 
+                    <div class="portfolio-box acrobatics">
+                      <div class="portfolio-box-container">
+                        <img src="assets/img/portfolio/advmay.jpg" alt="" data-at2x="assets/img/portfolio/advmay.jpg">
+                        <div class="portfolio-box-text">
+                          <h3>Advanced Acrobatics Intensive in Andalusia, Spain May 20-29th.</h3>
+                          <p>
+
+
+                            </p>
+                            <a class="big-link-1" href="event-advmay.php">Read more!</a>
+                          </div>
+                      </div>
+                    </div>
+
 		                <div class="portfolio-box yoga">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work3.jpg" alt="" data-at2x="assets/img/portfolio/work3.jpg">
                       	<div class="portfolio-box-text">
                           <h3>Spring Yoga Immersion, 13-17 May 2016</h3>
-  		                    <p>5 days of yoga in its many forms, acroyoga and partner acrobatics,
+  		                    <p>  Two stunning farmhouses in <strong>Provence, South of France,</strong> 5 days of yoga in its many forms, acroyoga and partner acrobatics,
                             meditation, positive psychology and massages.
-                            <br><br>
-      Two stunning farmhouses in <strong>Provence, South of France,</strong> 2hrs from Paris, 20min from Marseille.<br>
-      <br>
+                            <br>
       Nature, relaxation, deep practice and pure fun: Bliss!
   </p>
-                      <a class="big-link-1" href="http://www.themaitrimovement.com/">Go to site</a>
+                      <a class="big-link-1" href="http://www.themaitrimovement.com/">The Maitri Movement</a>
                       	</div>
 	                		</div>
 		                </div>
@@ -84,20 +87,9 @@ include('header.php');
                           <h3>Acro & Other Partner Adventures, 14-16 May 2016</h3>
                           <p>In the context of a 5-day retreat next to <strong>Aix-en-Provence, southern France,</strong>
                             <span class="violet">Martin Kvist and Vanille Siméon</span> will be giving acroyoga & partner acrobatics workshops in
-                            the inspirational dome of Layama center.<br><br>
-Those workshops are open to external students (ie not participating to the full retreat).<br>
-
-Martin and Vanille will be teaching a mix of fun partner acrobatics, handstands and therapeutic flights.
-It will be about fun drills, playful tricks and funcky transitions, pushing our boundaries and defying gravity.
- It will also and mainly be about authenticity, respect, and ultimately trust and balance.
-<!--  Our acro practice nurtures relationships in ways that are healthy and beneficial.
-   Our acro defines our capacity to explore, listen and connect. To give and receive...
-   <br><br> Wait a minute!? Let's give even more and receive even more. What if we all grow together?
- <br>
-All classes are all levels - beginners and intermediates; options will be offered to get confidence and/or to enhance your practice.
-They will be led in English, with occasional translation into French if needed.-->
+                            the inspirational dome of Layama center.
  </p>
- <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">Go to site</a>
+ <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a>
                           </div>
                       </div>
                     </div>
@@ -127,16 +119,11 @@ They will be led in English, with occasional translation into French if needed.-
                           <h3>Summer Yoga Intensive, 9-23 July 2016</h3>
   		                    <p>1 or 2 weeks of yoga, acroyoga and partner acrobatics, meditation, positive psychology, massages,
                              and a lot of nature.
-                             <br><br>
-                             Yoga on and off our mats!
-                             <br><br>
-      We will be moving for fun, for challenges, for sweetness, and for peace.
-      Let's bring the light from the inside out and awaken our authenticity and intuition to shape our lives positively.
-       <br><br>
-      Rendez-vous in Provence, South of France.
-      <br><br>
+                          <br>
+                          <span class="violet">Rendez-vous in Provence, South of France.</span>
+      <br>
       More info at:</p>
-      <a class="big-link-1" href="http://www.themaitrimovement.com">Go to site</a>
+      <a class="big-link-1" href="http://www.themaitrimovement.com">The Maitri Movement</a>
 		                		</div>
 	                		</div>
 		                </div>
