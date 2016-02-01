@@ -1,5 +1,5 @@
 application: flying-highacrobatics
-version: 6
+version: fh-testing
 runtime: php55
 api_version: 1
 threadsafe: yes
