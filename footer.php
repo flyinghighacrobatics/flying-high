@@ -81,8 +81,8 @@
         </div>
         <div class="row">
             <div class="col-sm-7 footer-copyright wow fadeIn">
-                <p>Copyright &copy; Flying High Acrobatics IVS 2015 - Photo Credit:
-                  Melanie Höld, Monika Kolb, Melanie Lo, Vanille Simeon. Template by <a href="http://azmind.com">Azmind</a></p>
+                <p>Copyright &copy; Flying High Acrobatics IVS 2016 - Photo Credit: <a href="http://barefootyoga.me/">Ishine Photography</a> <br>
+                  <!-- Melanie Höld, Monika Kolb, Melanie Lo, Vanille Simeon.--> Template by <a href="http://azmind.com">Azmind</a></p>
 
             </div>
         <!--    <div class="col-sm-5 footer-social wow fadeIn">

@@ -158,8 +158,8 @@
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="events.php">All Events</a></li>
                 <li><a href="event-advmay.php">Advanced Acrobatics Intensive Andalusia,Spain May 20-29th</a></li>
-                <li><a href="#">Inversions & Acro Koh Yoa Noi,Phuket Feb 8-11th</a></li>
-                <li><a href="event-mindmov.php">Mindful Moves ...</a></li>
+                <!-- <li><a href="#">Inversions & Acro Koh Yoa Noi,Phuket Feb 8-11th</a></li>
+                <li><a href="event-mindmov.php">Mindful Moves ...</a></li> -->
 							</ul>
 						</li>
             		<li class="dropdown">
@@ -167,9 +167,9 @@
                     <i class="fa fa-paperclip"></i><br>Resources<span class="caret"></span>
                   </a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Manuscripts</a></li>
-                    <li><a href="#">Acro Manual</a></li>
-                    <li><a href="#">Other</a></li>
+                    <li><a href="manuscript.php">Manuscripts</a></li>
+                    <li><a href="manual-pa.php">Acro Manual</a></li>
+                    <li><a href="acrocal.php">Acro Calendar</a></li>
 
                   </ul>
                 </li>

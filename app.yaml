@@ -1,6 +1,6 @@
 application: flying-highacrobatics
-#version: fh-production
-version: fh-testing
+version: fh-production
+#version: fh-testing
 runtime: php55
 api_version: 1
 threadsafe: yes

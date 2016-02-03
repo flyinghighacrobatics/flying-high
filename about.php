@@ -10,7 +10,8 @@ include('header.php');
                     <div class="col-sm-12 wow fadeIn">
                         <i class="fa fa-user"></i>
                         <h1>About /</h1>
-                        <p>Below you can find more information about me and my affiliates.</p>
+                        <p>Below you can find more information about me and Flying High Acrobatics. <br> Don't forget to check our affiliates page
+                        </p>
                     </div>
                 </div>
             </div>
