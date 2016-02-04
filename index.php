@@ -74,16 +74,17 @@ include('header.php');
                   <div class="col-sm-12 services-full-width-text wow fadeInLeft">
                       <h3>Take Your Training To The Next Level</h3>
                       <p>
-                        <span class="violet">Flying High Acrobatics</span> offers <strong>trainings, workshops, lectures, personal training, performance enhancement,
-                        injury prevention, rehab, and much more.</strong> We work with highly educated instructors and experienced partners
-                          to offer quality events all over the world. We have the <strong>educational background</strong>
-                          and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
-                          From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
-                          teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.
-                        <strong>We strongly belive in,  <span class="violet">practicing in a sustainable way, empowering practicioners with knowlede,</span></strong> and getting rid of the myths,
-                        and the bad practices, by <strong>embracing</strong> neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> .
-                          We operate at <strong>the forefront of Sport and Exercise Science</strong>,
-                          and <span class="violet">we want to take your training to the next level!</span> <strong>Are you ready?</strong>
+                        <span class="violet">Flying High Acrobatics</span> offers trainings, workshops, lectures, personal training, performance enhancement,
+                        injury prevention, rehab, and much more.<br>
+                         Our events explore the <strong>diversity of movement</strong>, spark <span class="violet">flames of achievement</span>
+                         and build <strong>bonds of trust</strong> between practioners of all levels and backgrounds. <br>
+
+                      We strongly belive in, <span class="violet">practicing</span> in a <strong>sustainable</strong> way,
+                       empowering practicioners <span class="violet">with knowlede,</span>
+                         by <strong>embracing</strong> the neuroscience of <span class='violet'>motor learning</span>  and proven facts from
+                         <strong>biomechanics</strong>.<br>
+                          We operate <span class="violet">at the forefront of Sport and Exercise Science</span>,
+                          and <strong>we want to take your training to the next level!</strong> <span class='violet'>Are you ready?</span>
 
                     </p>
                   </div>
@@ -94,51 +95,180 @@ include('header.php');
         <!-- Services  class="img-responsive img-circle"-->
         <div class="services-container">
           <div class="container">
+            <div class="row">
+		            <div class="col-sm-12 testimonials-title wow fadeIn">
+		                <h2>Services</h2>
+		            </div>
+	            </div>
               <div class="row">
                 <div class="col-sm-3">
                     <div class="service wow fadeInUp">
                       <img src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
                         <h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
-                        <p>Flying High Acrobatics offers trainings, workshops, lectures, personal training, performance enhancement,
-                        injury prevention, rehab, and much more related to Acrobatics and Acro Yoga. Check out our upcoming
-                        Acrobatic events on the events page or contact  us to organise a training near you...</p>
-                         <a class="big-link-1" href="events.php">Acrobatic Events</a>
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Read More</button>
+
+
+
+
+                         <!-- <a class="big-link-1" href="events.php">Acrobatic Events</a> -->
                        </div>
           </div>
+
+          <!-- Modal -->
+          <div id="myModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Acrobatics, Handstand and Hand 2 Hand Training.</h4>
+                </div>
+                <div class="modal-body">
+                  <p>Handstand Master Classes, Hand 2 Hand Privates or Advanced Acrobatics Intensive trainings.<br>
+                     Check out our upcoming and past events on the <a href="events.php">events</a> page or contact us on
+                      <a href="mailto:info@flyinghighacrobatics.com">info@flyinghighacrobatics.com</a>
+                      to book or organise a training near you...</p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!-- Modal end -->
+
           <div class="col-sm-3">
                     <div class="service wow fadeInDown">
                         <img class="img-thumbnail" src="assets/img/icons/program.jpg" alt="Programming.." data-at2x="assets/img/icons/program.jpg">
                         <h3>Programming, Privates and Personal Training </h3>
-                        <p>From performance enhancing personal strength training programs, to complete injury re- and pre- habilitation programs
-                          or even complete teacher training or event programming. We have the <strong>educational background</strong>
-                          and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
-                          From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
-                          teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.</p>
-                          <a class="big-link-1" href="#">Contact Us!</a>
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal2">Read More</button>
+
+
                          </div>
                   </div>
+
+
+                  <!-- Modal -->
+                  <div id="myModal2" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Programming, Privates and Personal Training</h4>
+                        </div>
+                        <div class="modal-body">
+                  <p>
+                    From performance enhancing personal strength training programs, to complete injury re- and pre- habilitation programs
+                      or even complete teacher training or event programming. We have the <strong>educational background</strong>
+                      and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
+                      From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
+                      teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.
+                  </p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+
                   <div class="col-sm-3">
                     <div class="service wow fadeInUp">
                       <img class="img-thumbnail" src="assets/img/icons/sport.jpg" alt="Programming.." data-at2x="assets/img/icons/sport.jpg">
                         <h3>Sport Science, Communication & Education</h3>
-                        <p>Communicating scientific concepts to future educators, and linking the world of science and technology to society at large
-                          .From subjects like the neuroscience of learning acrobatic skills,  to the biomechanics of injury prevention,
-                            we are continually pursuing a better understanding of injury causality,
-                             injury prevention, and performance enhancement in acrobatic sports....</p>
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal3">More Info</button>
+
                            </div>
                   </div>
+
+
+
+
+                  <!-- Modal -->
+                  <div id="myModal3" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Sport Science, Communication & Education</h4>
+                        </div>
+                        <div class="modal-body">
+                          <p>Communicating scientific concepts to future educators, and linking the world of science and technology to society at large
+                            .From subjects like the neuroscience of learning acrobatic skills,  to the biomechanics of injury prevention,
+                              we are continually pursuing a better understanding of injury causality,
+                               injury prevention, and performance enhancement in acrobatic sports.
+                               <br>
+                               <b>A taste of the courses we offer:</b>
+                             <ul>
+                               <li>Anatomy
+                                 <li>Biomechanics
+                                   <li>Neuroscience
+                                     <li>Motor Learning
+                                       <li>Science of Flexibility
+                                         <li>Handstands & Fun Facts from Science
+                                         </ul>
+                             </p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+
                   <div class="col-sm-3">
                     <div class="service wow fadeInDown">
                           <img class="img-thumbnail" src="assets/img/portfolio/work11.jpg" alt="Yoga" data-at2x="assets/img/portfolio/work11.jpg">
-                        <h3>Yoga</h3>
-                        <p>Developing sustainable practices and empowering
-                         practicioners with knowlede. Dispelling the myths, and the bad practices, by <strong>embracing</strong>
-                         neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> ....
-                      <br>
-                          See our upcoming and previous Yoga events on the events page for more info...</p>
-                        <a class="big-link-1" href="events.php">Yoga Events</a>
+                        <h3>Yoga & Diverse Movement</h3>
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal4">More Info</button>
+
                     </div>
                   </div>
+
+                  <!-- Modal -->
+                  <div id="myModal4" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Yoga & Diverse Movement</h4>
+                        </div>
+                        <div class="modal-body">
+                          <p>Developing sustainable practices and empowering
+                           practicioners with knowlede, by <strong>embracing</strong>
+                           neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> ....
+                        <br>
+                            See our upcoming and previous Yoga events on the events page for more info...<br><br>
+                          <a class="big-link-1" href="events.php">Yoga Events</a>
+                          </p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+
+
               </div>
           </div>
         </div>

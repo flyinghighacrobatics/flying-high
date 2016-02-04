@@ -25,9 +25,9 @@ include('header.php');
 	                    <h3>About </h3>
                       <img src="assets/img/team/5.jpg" alt="Martin Kvist" data-at2x="assets/img/team/5.jpg">
                       <p>
-                        <span class="violet">Martin Kvist</span> is the founder of Flying High Acrobatics, he a very experienced teacher of <span class="violet">gymnastics, acrobatics</span> and other fields of
+                        <span class="violet">Martin Kvist</span> is the founder of Flying High Acrobatics, he is a very experienced teacher of <span class="violet">gymnastics, acrobatics</span> and other fields of
                         <span class="violet">movement</span> mastery.
-                         He has practiced and competed in a variety of acrobatic sports like vaulting horse and team gymnastics,
+                         He has practiced and competed in a variety of acrobatic sports like vaulting horse, and team gymnastics,
                           but when he stumbled upon acrobatics he was hooked for life. Martin is a certified <span class="violet">Yin Yoga</span>
                             teacher and an experienced bodyworker. He has a vast knowledege of different treatment modalities, and a lot of experience
                           both with <span class="violet">rehabilitation, and treament of sports injuries. </span> Besides throwing people in the air, flying
@@ -50,6 +50,8 @@ include('header.php');
                         train smart concepts from motor learning and proven facts from biomechanics. I belive in <span class="violet">empowering people with
                         knowlede...</span>
 	                    </p>
+
+
 	                    <h3>Recent Experience</h3>
 	                  <!--  <p>-->
                         <ul>
@@ -81,6 +83,22 @@ August 2012 Five European, phenomenally experienced & renowned teachers are coll
 </li>-->
 </ul>
 	                    <!--</p>-->
+
+                      <h2>About Flying High Acrobatics</h2>
+                      <h3>Take Your Training To The Next Level</h3>
+                      <p>
+                        <span class="violet">Flying High Acrobatics</span> offers <strong>trainings, workshops, lectures, personal training, performance enhancement,
+                        injury prevention, rehab, and much more.</strong> We work with highly educated instructors and experienced partners
+                          to offer quality events all over the world. We have the <strong>educational background</strong>
+                          and personal <strong>experience</strong> nessecary when coaching athletes of all levels.
+                          From individual privates focused on one skill, to complete periodized training programming, we offer all levels of training and
+                          teaching, ranging from personal training and privates, to intesive teacher trainings, or long term talent development.
+                        <strong>We strongly belive in,  <span class="violet">practicing in a sustainable way, empowering practicioners with knowlede,</span></strong> and getting rid of the myths,
+                        and the bad practices, by <strong>embracing</strong> neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> .
+                          We operate at <strong>the forefront of Sport and Exercise Science</strong>,
+                          and <span class="violet">we want to take your training to the next level!</span> <strong>Are you ready?</strong>
+
+                    </p>
 	                </div>
 	            </div>
 	        </div>
