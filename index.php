@@ -92,18 +92,31 @@ include('header.php');
           </div>
         </div>
 
-        <!-- Services  class="img-responsive img-circle"-->
-        <div class="services-container">
+
+        <!-- Latest work -->
+    <!--    <div class="work-container">
           <div class="container">
             <div class="row">
-		            <div class="col-sm-12 testimonials-title wow fadeIn">
+                <div class="col-sm-12 work-title wow fadeIn">
+                    <h2>Upcoming Events</h2>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-3">
+                    <div class="work wow fadeInUp">-->
+
+        <!-- Services  class="img-responsive img-circle"-->
+        <div class="work-container">
+          <div class="container">
+            <div class="row">
+		            <div class="col-sm-12 work-title wow fadeIn">
 		                <h2>Services</h2>
 		            </div>
 	            </div>
               <div class="row">
                 <div class="col-sm-3">
-                    <div class="service wow fadeInUp">
-                      <img src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
+                    <div class="work wow fadeInUp">
+                      <img class="img-thumbnail" src="assets/img/icons/collage.jpg" alt="Lorem Website" data-at2x="assets/img/icons/collage.jpg">
                         <h3>Acrobatics, Handstand and Hand 2 Hand Training.</h3>
                         <!-- Trigger the modal with a button -->
                         <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Read More</button>
@@ -141,7 +154,7 @@ include('header.php');
           <!-- Modal end -->
 
           <div class="col-sm-3">
-                    <div class="service wow fadeInDown">
+                    <div class="work wow fadeInDown">
                         <img class="img-thumbnail" src="assets/img/icons/program.jpg" alt="Programming.." data-at2x="assets/img/icons/program.jpg">
                         <h3>Programming, Privates and Personal Training </h3>
                         <!-- Trigger the modal with a button -->
@@ -181,7 +194,7 @@ include('header.php');
 
 
                   <div class="col-sm-3">
-                    <div class="service wow fadeInUp">
+                    <div class="work wow fadeInUp">
                       <img class="img-thumbnail" src="assets/img/icons/sport.jpg" alt="Programming.." data-at2x="assets/img/icons/sport.jpg">
                         <h3>Sport Science, Communication & Education</h3>
                         <!-- Trigger the modal with a button -->
@@ -230,7 +243,7 @@ include('header.php');
 
 
                   <div class="col-sm-3">
-                    <div class="service wow fadeInDown">
+                    <div class="work wow fadeInDown">
                           <img class="img-thumbnail" src="assets/img/portfolio/work11.jpg" alt="Yoga" data-at2x="assets/img/portfolio/work11.jpg">
                         <h3>Yoga & Diverse Movement</h3>
                         <!-- Trigger the modal with a button -->
