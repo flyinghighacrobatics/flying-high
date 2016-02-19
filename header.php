@@ -148,20 +148,19 @@
 						<li>
 							<a href="affiliates.php"><i class="fa fa-globe"></i><br>Affiliates</a>
 						</li>
-          <!--  <li>
-							<a href="contact.php"><i class="fa fa-user"></i><br>Contact</a>
-						</li> -->
-						<li class="dropdown">
+           <li>
+							<a href="events.php"><i class="fa fa-camera"></i><br>Events</a>
+						</li>
+						<!-- <li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000">
 								<i class="fa fa-camera"></i><br>Events<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="events.php">All Events</a></li>
                 <li><a href="event-advmay.php">Advanced Acrobatics Intensive Andalusia,Spain May 20-29th</a></li>
-                <!-- <li><a href="#">Inversions & Acro Koh Yoa Noi,Phuket Feb 8-11th</a></li>
-                <li><a href="event-mindmov.php">Mindful Moves ...</a></li> -->
+
 							</ul>
-						</li>
+						</li> -->
             		<li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000">
                     <i class="fa fa-paperclip"></i><br>Resources<span class="caret"></span>

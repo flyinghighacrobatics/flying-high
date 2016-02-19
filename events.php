@@ -23,76 +23,172 @@ include('header.php');
 	            	<div class="col-sm-12 portfolio-filters wow fadeInLeft">
 	            		<a href="#" class="filter-all active">All</a> /
 	            		<a href="#" class="filter-acrobatics">Acrobatics</a> /
-	            		<a href="#" class="filter-yoga">Yoga</a> /
-	            		<a href="#" class="filter-performance">Performance</a> /
+	            		<a href="#" class="filter-yoga">Movement</a> /
+	            		<!-- <a href="#" class="filter-performance">Performance</a> /
                   <a href="#" class="filter-treatment">Treatment</a>/
-                  <a href="#" class="filter-research">Research</a>
+                  <a href="#" class="filter-research">Research</a> -->
+                  <a href="#" class="filter-retreat">Retreat</a>
 	            	</div>
 	            </div>
 	            <div class="row">
 	            	<div class="col-sm-12 portfolio-masonry">
-		                <div class="portfolio-box acrobatics">
+
+
+		                <div class="portfolio-box yoga retreat">
 		                	<div class="portfolio-box-container">
-			                	<img src="assets/img/portfolio/phuket2t.jpg" alt="" data-at2x="assets/img/portfolio/phuket2t.jpg">
-			                	<div class="portfolio-box-text">
-                          <h3>Acro & Inversion series Koh Yao Noi, Phuket - Thailand.</h3>
-  		                    <p>
-                            Feb 8th: Inversions & Handstands MasterClass <br>
-                            Feb 9th: Balance & Counterbalances <br>
-                          Feb 10th: Playfuls flows <br>
-                          Feb 11th: Building up trust and confidence <br>
-
-                            More info:<br>
-                            maitrimovement@gmail.com
-
-                            </p>
-                            <a class="big-link-1" href="http://goo.gl/forms/v3nOAcLz1I">Sign up now!</a>
-                          </div>
-			                </div>
-		                </div>
-
-                    <div class="portfolio-box acrobatics">
-                      <div class="portfolio-box-container">
-                        <img src="assets/img/portfolio/advmay.jpg" alt="" data-at2x="assets/img/portfolio/advmay.jpg">
-                        <div class="portfolio-box-text">
-                          <h3>Advanced Acrobatics Intensive in Andalusia, Spain May 20-29th.</h3>
-                          <p>
-
-
-                            </p>
-                            <a class="big-link-1" href="event-advmay.php">Read more!</a>
-                          </div>
-                      </div>
-                    </div>
-
-		                <div class="portfolio-box yoga">
-		                	<div class="portfolio-box-container">
-			                	<img src="assets/img/portfolio/work3.jpg" alt="" data-at2x="assets/img/portfolio/work3.jpg">
+			                	<img src="assets/img/portfolio/work33@325.jpg" alt="" data-at2x="assets/img/portfolio/work3.jpg">
                       	<div class="portfolio-box-text">
-                          <h3>Spring Yoga Immersion, 13-17 May 2016</h3>
-  		                    <p>  Two stunning farmhouses in <strong>Provence, South of France,</strong> 5 days of yoga in its many forms, acroyoga and partner acrobatics,
-                            meditation, positive psychology and massages.
-                            <br>
-      Nature, relaxation, deep practice and pure fun: Bliss!
-  </p>
-                      <a class="big-link-1" href="http://www.themaitrimovement.com/">The Maitri Movement</a>
+                          <h3>Mindful Moves - Spring Retreat </h3>
+                        <p>  <strong>Provence, South of France 13-17 May 2016</strong> </p>
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#yogaModal">More Info!</button>
+
+
                       	</div>
 	                		</div>
 		                </div>
 
+                    <!-- Modal -->
+                    <div id="yogaModal" class="modal fade" role="dialog">
+                      <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Mindful Moves - Spring Retreat</h4>
+                          </div>
+                          <div class="modal-body">
+
+                      <p>  Yoga in its many forms, acroyoga & partner acrobatics, meditation & positive psychology.<br>
+
+5 days for playfulness, fluidity and expansion.
+Acroyoga & Partner Acrobatics workshops, in the inspirational dome of <strong>Layama center</strong>
+Great vegetarian local cuisine, cooked with love by our host Jordane
+Accommodation in two stunning farmhouses with pool and garden
+See you in <strong>Provence, South of France;</strong> 3hrs from Paris, 20min from Marseille<br><br>
+
+Exclusive retreat for a happy lucky little community; spots are limited<br>
+Nature, relaxation, deep practice and pure fun: Bliss!
+                      <br><br>
+                      <strong>More info & registration:</strong> <br><br>
+
+                      <a class="big-link-1" href="http://www.themaitrimovement.com/">The Maitri Movement</a>
+</p>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+<!-- end modal -->
                     <div class="portfolio-box acrobatics">
                       <div class="portfolio-box-container">
-                        <img src="assets/img/portfolio/work11.jpg" alt="" data-at2x="assets/img/portfolio/work11.jpg">
+                        <img src="assets/img/promo/acroadv.jpg" alt="" data-at2x="assets/img/promo/acroadv.jpg">
                         <div class="portfolio-box-text">
-                          <h3>Acro & Other Partner Adventures, 14-16 May 2016</h3>
-                          <p>In the context of a 5-day retreat next to <strong>Aix-en-Provence, southern France,</strong>
-                            <span class="violet">Martin Kvist and Vanille Siméon</span> will be giving acroyoga & partner acrobatics workshops in
-                            the inspirational dome of Layama center.
- </p>
- <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a>
+                          <h3>Acro and Other Partner Adventures </h3>
+                          <p><strong>Aix-en-Provence, southern France 14-16 May 2016</strong></p>
+
+                          <!-- Trigger the modal with a button -->
+                          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#springModal">Read more!</button>
+
                           </div>
                       </div>
                     </div>
+                    <!-- Modal -->
+                    <div id="springModal" class="modal fade" role="dialog">
+                      <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Acro & Other Partner Adventures</h4>
+                          </div>
+                          <div class="modal-body">
+                            <p>In the context of a 5-day retreat next to <strong>Aix-en-Provence, southern France,</strong>
+                              <span class="violet">Martin Kvist and Vanille Siméon</span> will be giving acroyoga & partner acrobatics workshops in
+                              the inspirational dome of Layama center.
+        <br><br>
+        <b>More info and registration at:</b><br><br>
+        <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a>
+</p>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+<!-- end modal -->
+
+<div class="portfolio-box acrobatics">
+  <div class="portfolio-box-container">
+    <img src="assets/img/portfolio/advmay.jpg" alt="" data-at2x="assets/img/portfolio/advmay.jpg">
+    <div class="portfolio-box-text">
+      <h3>Advanced Acrobatics Intensive</h3>
+      <p>
+<strong>Andalusia, Spain May 20-29th 2016</strong>
+
+        </p>
+        <a class="big-link-1" href="event-advmay.php">Read more!</a>
+      </div>
+  </div>
+</div>
+<!-- end advanced -->
+                    <div class="portfolio-box retreat yoga">
+                      <div class="portfolio-box-container">
+                        <img src="assets/img/promo/mindsummer.jpg" >
+                        <div class="portfolio-box-text">
+                          <h3>Mindful Moves - Summer Retreat </h3>
+                          <p><strong> Aix-en-Provence, France 16-23 July 2016</strong></p>
+                          <!-- Trigger the modal with a button -->
+                          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#MindMovModal">More Info!</button>
+
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <!-- Modal -->
+                    <div id="MindMovModal" class="modal fade" role="dialog">
+                      <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Mindful Moves</h4>
+                          </div>
+                          <div class="modal-body">
+                    <p>
+                      Fire up your senses and presence. This second week brings the light from inside out, awakening our authenticity and intuition to shape our lives positively. Take your acro practice to the next level and surrender to the powerful effects of mindful moves. Partner acrobatics, handstands, vinyasa flows & Yin yoga, positive psychology and meditation; what else??<br><br>
+
+<b>Teachers: </b>
+<ul>
+Martin Kvist<br>
+
+Vanille Siméon<br>
+
+Pénélope Baudoin<br>
+</ul>
+<strong>More info & registration:</strong> <br><br>
+<a class="big-link-1" href="http://www.themaitrimovement.com/#!blank/s3vne">The Maitri Movement</a>
+
+                    </p>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+
+<!-- Modal end -->
 
 		              <!--  <div class="portfolio-box treatment">
 		                	<div class="portfolio-box-container">
@@ -112,7 +208,7 @@ include('header.php');
 		                		</div>
 	                		</div>
 		                </div> -->
-		                <div class="portfolio-box yoga">
+		                <!-- <div class="portfolio-box yoga">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work10.jpg" alt="" data-at2x="assets/img/portfolio/work10.jpg">
 		                		<div class="portfolio-box-text">
@@ -126,7 +222,7 @@ include('header.php');
       <a class="big-link-1" href="http://www.themaitrimovement.com">The Maitri Movement</a>
 		                		</div>
 	                		</div>
-		                </div>
+		                </div> -->
 		              <!--  <div class="portfolio-box treatment">
 		                	<div class="portfolio-box-container">
 			                	<img src="assets/img/portfolio/work5.jpg" alt="" data-at2x="assets/img/portfolio/work5.jpg">
@@ -147,6 +243,107 @@ include('header.php');
 		                		</div>
 	                		</div>
 		                </div> -->
+
+
+
+                    <div class="portfolio-box acrobatics">
+                      <div class="portfolio-box-container">
+                        <img src="assets/img/portfolio/workIT.png" alt="" data-at2x="assets/img/portfolio/workIT.png">
+                        <div class="portfolio-box-text">
+                          <h3>Partner Acrobatics Intensive Training</h3>
+                          <p><strong>Andalusia, Spain - July 2016</strong></p>
+
+                          <!-- Trigger the modal with a button -->
+                          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#ITModal">Read more!</button>
+
+                          </div>
+                      </div>
+                    </div>
+                    <!-- Modal -->
+                    <div id="ITModal" class="modal fade" role="dialog">
+                      <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Partner Acrobatics Intensive Training,  Spain 2016</h4>
+                          </div>
+                          <div class="modal-body">
+                            <p>7 or 15 days from July 4th to 17th, 2016<br>
+Optional 1 or 2 week training at Cortijo Caseria Del Mercado-a small organic farm high in the Alpujarras mountains.
+In our Partner Acrobatics programs we cover many different acrobatic disciplines including standing acrobatics, handstand training, washing machines, trio tricks, Icarian games and much more.
+This physical intensity is balanced out with our therapeutic sessions, which aim to heal and restore the body.<br><br>
+
+
+This program will give you the chance to refine your Acro skills and to have loads of fun.
+You have the freedom to choose how many hours you spend on Acro vs Therapeutics.
+
+                        <br><br>
+                    <b>More info and registration at:</b><br><br>
+                    <a class="big-link-1" href="http://partneracrobatics.com/program-15.php">partneracrobatics.com</a>
+                    </p>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+                    <!-- end modal -->
+
+
+<!-- Begin TT -->
+                    <div class="portfolio-box acrobatics">
+                      <div class="portfolio-box-container">
+                        <img src="assets/img/portfolio/workTT.jpg" alt="" data-at2x="assets/img/portfolio/workTT.jpg">
+                        <div class="portfolio-box-text">
+                          <h3>Partner Acrobatics Spain TT 2016</h3>
+                          <p><strong>Andalusia, Spain - Aug 2016</strong></p>
+
+                          <!-- Trigger the modal with a button -->
+                          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#TTModal">Read more!</button>
+
+                          </div>
+                      </div>
+                    </div>
+                    <!-- Modal -->
+                    <div id="TTModal" class="modal fade" role="dialog">
+                      <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Partner Acrobatics Spain TT 2016</h4>
+                          </div>
+                          <div class="modal-body">
+                            <p>August 1-28, 2016 <br>
+
+Our Partner Acrobatics teacher training program offers an opportunity to intensively train for four weeks whilst learning the skills and tools to teach successful acro classes and workshops. We encourage and support our students in developing their own teaching style, based on the latest principals of neuroscience and motor learning and our own extensive teaching experience.<br><br>
+
+The teacher training covers many different acrobatic disciplines including standing acrobatics, handstand training, washing machines, trio tricks, Icarian, games and much more. This physical intensity is balanced out with our therapeutic sessions, which aim to heal and restore the body.<br><br>
+
+At the heart of our training programs is the concept of sustainability – the use of proper alignment and the principles of sports science to increase performance and decrease the risk of pain and/or injury.<br><br>
+
+This element of our trainings is weaved into our Prehab program – a selection of exercises specifically aimed at promoting injury prevention, structural integration and correct movement technique for long term physical health and fitness. These include postural realignment exercises, resistance training and correct breathing techniques.<br><br>
+
+During our courses we often concurrently run 3 classes at a time, giving the students the option to choose between standing acro, L basing and therapeutics.
+                  <br><br>
+                  <b>More info and registration at:</b><br><br>
+                  <a class="big-link-1" href="http://partneracrobatics.com/program-tt.php">partneracrobatics.com</a>
+                  </p>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+                  <!-- end modal -->
+
 
 	                </div>
 	            </div>
@@ -180,6 +377,26 @@ include('header.php');
               </div>
               <div class="row">
                 <div class="col-sm-12 portfolio-masonry">
+                  <div class="portfolio-box acrobatics">
+                    <div class="portfolio-box-container">
+                      <img src="assets/img/portfolio/phuket2t.jpg" alt="" data-at2x="assets/img/portfolio/phuket2t.jpg">
+                      <div class="portfolio-box-text">
+                        <h3>Acro & Inversion series Koh Yao Noi, Phuket - Thailand.</h3>
+                        <p>
+                          Feb 8th: Inversions & Handstands MasterClass <br>
+                          Feb 9th: Balance & Counterbalances <br>
+                        Feb 10th: Playfuls flows <br>
+                        Feb 11th: Building up trust and confidence <br>
+
+                          More info:<br>
+                          maitrimovement@gmail.com
+
+                          </p>
+                          <!-- <a class="big-link-1" href="http://goo.gl/forms/v3nOAcLz1I">Sign up now!</a> -->
+                        </div>
+                    </div>
+                  </div>
+
 
                   <div class="portfolio-box acrobatics">
                     <div class="portfolio-box-container">
@@ -204,23 +421,20 @@ include('header.php');
                       </div>
                     </div>
 
-                    <div class="portfolio-box acrobatics">
+                    <!-- <div class="portfolio-box acrobatics">
                       <div class="portfolio-box-container portfolio-video" data-portfolio-big="https://www.youtube.com/watch?v=eRj8E-kU3zg">
                         <div class="embed-responsive embed-responsive-16by9">
                           <iframe class="embed-responsive-item"
                           src="https://www.youtube.com/embed/eRj8E-kU3zg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
                         </iframe>
-                          <!--	<iframe class="embed-responsive-item"
-                              src="//player.vimeo.com/video/84910153?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=9d426b"
-                                  webkitallowfullscreen mozallowfullscreen allowfullscreen>
-                            </iframe> -->
+
                           </div>
                         <div class="portfolio-box-text">
                           <h3>Flying High Copenhagen</h3>
                           <p>With Emily Baxter, 3 workshops on the road to standing hand 2 hand. 8-9 Nov 2015 ...</p>
                         </div>
                       </div>
-                    </div>
+                    </div> -->
 
                 <!--    <div class="portfolio-box yoga">
                       <div class="portfolio-box-container">

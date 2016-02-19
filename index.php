@@ -6,6 +6,24 @@ include('header.php');
 
 
 <!--sdad-->
+
+<!-- Call To Action -->
+<div class="call-to-action-container">
+  <div class="container">
+      <div class="row">
+          <div class="col-sm-12 call-to-action-text wow fadeInLeftBig">
+              <p>
+              Check out our upcoming  <span class="violet">events</span> now!
+              </p>
+              <div class="call-to-action-button">
+                  <a class="big-link-3" href="/events.php">Events!</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+
         <!-- Slider -->
        <div class="slider-container">
             <div class="container">
@@ -142,7 +160,12 @@ include('header.php');
                   <p>Handstand Master Classes, Hand 2 Hand Privates or Advanced Acrobatics Intensive trainings.<br>
                      Check out our upcoming and past events on the <a href="events.php">events</a> page or contact us on
                       <a href="mailto:info@flyinghighacrobatics.com">info@flyinghighacrobatics.com</a>
-                      to book or organise a training near you...</p>
+                      to book or organise a training near you...
+<br><br>
+  <a class="big-link-1" href="events.php">Events</a>
+
+                    </p>
+
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -244,8 +267,8 @@ include('header.php');
 
                   <div class="col-sm-3">
                     <div class="work wow fadeInDown">
-                          <img class="img-thumbnail" src="assets/img/portfolio/work11.jpg" alt="Yoga" data-at2x="assets/img/portfolio/work11.jpg">
-                        <h3>Yoga & Diverse Movement</h3>
+                          <img class="img-thumbnail" src="assets/img/promo/mindsummer.jpg" alt="Yoga" >
+                        <h3>Movement</h3>
                         <!-- Trigger the modal with a button -->
                         <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal4">More Info</button>
 
@@ -268,7 +291,7 @@ include('header.php');
                            neuroscientific "train smart" concepts from <strong>motor learning</strong>  and proven facts from <strong>biomechanics</strong> ....
                         <br>
                             See our upcoming and previous Yoga events on the events page for more info...<br><br>
-                          <a class="big-link-1" href="events.php">Yoga Events</a>
+                          <a class="big-link-1" href="events.php">Events</a>
                           </p>
                         </div>
                         <div class="modal-footer">
@@ -537,7 +560,7 @@ On a beautiful retreat center in the south of Spain, you can choose to participa
 	                			</div>
 	                		</div>-->
 	                		<!-- Nav tabs -->
-	                		<ul class="nav nav-tabs" role="tablist">
+	                		<!-- <ul class="nav nav-tabs" role="tablist">
 	                			<li role="presentation" class="active">
 	                				<a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"></a>
 	                			</li>
@@ -550,7 +573,7 @@ On a beautiful retreat center in the south of Spain, you can choose to participa
 	                			<li role="presentation">
 	                				<a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"></a>
 	                			</li>
-	                		</ul>
+	                		</ul> -->
 	                	</div>
 	                </div>
 	            </div>
