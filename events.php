@@ -62,9 +62,9 @@ include('header.php');
 
                       <p>  Yoga in its many forms, acroyoga & partner acrobatics, meditation & positive psychology.<br>
 
-5 days for playfulness, fluidity and expansion.
+5 days for playfulness, fluidity and expansion.<br>
 Acroyoga & Partner Acrobatics workshops, in the inspirational dome of <strong>Layama center</strong>
-Great vegetarian local cuisine, cooked with love by our host Jordane
+Great vegetarian local cuisine, cooked with love by our host Jordane.<br>
 Accommodation in two stunning farmhouses with pool and garden
 See you in <strong>Provence, South of France;</strong> 3hrs from Paris, 20min from Marseille<br><br>
 
@@ -321,7 +321,7 @@ You have the freedom to choose how many hours you spend on Acro vs Therapeutics.
                           <div class="modal-body">
                             <p>August 1-28, 2016 <br>
 
-Our Partner Acrobatics teacher training program offers an opportunity to intensively train for four weeks whilst learning the skills and tools to teach successful acro classes and workshops. We encourage and support our students in developing their own teaching style, based on the latest principals of neuroscience and motor learning and our own extensive teaching experience.<br><br>
+Partner Acrobatics teacher training program offers an opportunity to intensively train for four weeks whilst learning the skills and tools to teach successful acro classes and workshops. We encourage and support our students in developing their own teaching style, based on the latest principals of neuroscience and motor learning and our own extensive teaching experience.<br><br>
 
 The teacher training covers many different acrobatic disciplines including standing acrobatics, handstand training, washing machines, trio tricks, Icarian, games and much more. This physical intensity is balanced out with our therapeutic sessions, which aim to heal and restore the body.<br><br>
 
@@ -344,6 +344,45 @@ During our courses we often concurrently run 3 classes at a time, giving the stu
                     </div>
                   <!-- end modal -->
 
+                  <div class="portfolio-box acrobatics">
+                    <div class="portfolio-box-container">
+                      <img src="assets/img/promo/april.jpg">
+                      <div class="portfolio-box-text">
+                        <h3>Inversions & Acro series</h3>
+                        <p><strong>Aalborg, Denmark in April </strong></p>
+
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#aprilModal">Read more!</button>
+
+                        </div>
+                    </div>
+                  </div>
+                  <!-- Modal -->
+                  <div id="aprilModal" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Inversions & Acro series, April. Aalborg, Denmark</h4>
+                        </div>
+                        <div class="modal-body">
+                          <p><span class="violet">Martin Kvist and Vanille Siméon</span> will be giving acroyoga & partner acrobatics workshops in Aalborg Denmark.
+            <br><br>
+            More info coming soon!
+            <!-- <b>More info and registration at:</b><br><br> -->
+            <!-- <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a> -->
+            </p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+            <!-- end modal -->
 
 	                </div>
 	            </div>
@@ -365,7 +404,7 @@ During our courses we often concurrently run 3 classes at a time, giving the stu
         <!-- Portfolio -->
         <div class="portfolio-container">
           <div class="container">
-              <div class="row">
+              <!-- <div class="row">
                 <div class="col-sm-12 portfolio-filters wow fadeInLeft">
                   <a href="#" class="filter-all active">All</a> /
                   <a href="#" class="filter-acrobatics">Acrobatics</a> /
@@ -374,7 +413,7 @@ During our courses we often concurrently run 3 classes at a time, giving the stu
                   <a href="#" class="filter-treatment">Treatment</a>/
                   <a href="#" class="filter-research">Research</a>
                 </div>
-              </div>
+              </div> -->
               <div class="row">
                 <div class="col-sm-12 portfolio-masonry">
                   <div class="portfolio-box acrobatics">
