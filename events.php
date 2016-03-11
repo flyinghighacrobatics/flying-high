@@ -33,6 +33,78 @@ include('header.php');
 	            <div class="row">
 	            	<div class="col-sm-12 portfolio-masonry">
 
+                  <div class="portfolio-box acrobatics">
+                    <div class="portfolio-box-container">
+                      <img src="assets/img/promo/workshop2.jpg">
+                      <div class="portfolio-box-text">
+                        <h3>Inversions & Acro series</h3>
+                        <p><strong>House of Concrete, Aalborg Denmark April 2,9,16. </strong></p>
+
+                        <!-- Trigger the modal with a button -->
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#aprilModal">Read more!</button>
+
+                        </div>
+                    </div>
+                  </div>
+                  <!-- Modal -->
+                  <div id="aprilModal" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Inversions & Acro series, April. Aalborg, Denmark</h4>
+                        </div>
+                        <div class="modal-body">
+                          <p><span class="violet">Martin Kvist and Vanille Siméon</span> will be giving a series of 3 acroyoga & partner acrobatics workshops in House of Concrete, Aalborg Denmark.<br><br>
+
+                        <li> <strong>Workshop 1: Handstand Masterclass</strong></li>
+                            In this workshop, We will be exploring different exercises and positions on the way to a more diverse handbalancing practice, including different entries, handstands on body parts, contortionist style poses and one arm variations. As well as how to protect the shoulders and wrists from injury! <br><br>
+
+              Open to all levels we will work in focus groups to get you the skills you covet.
+              <br><br>
+              <a class="big-link-1" href="https://www.facebook.com/events/510102289169787/">Saturday 02/04 - Handstand Masterclass (Fb-event)</a>
+<br><br>
+  <li> <strong>Workshop 2: Icharian and Pop's</strong></li>
+Fly higher and have more fun with Martin Kvist and Vanille Simeon, in this workshop we will explore the dynamic acrobatics style of Icharian and popping.<br>
+
+Join us in House of Concrete Saturday 9 of April for 2 hours of foot juggeling fun and high flying excitement.
+<br>
+Open to all levels, but some previous acrobatic experience is a plus
+              <br><br>
+              <!-- <b>More info and registration at:</b><br><br> -->
+              <a class="big-link-1" href="https://www.facebook.com/events/1799203926974877/">Saturday 09/04 - Icharian and Pop's (Fb-event)</a>
+              <!-- Saturday 09/04 - https://www.facebook.com/events/1799203926974877/ -->
+      <br><br>
+      <li> <strong>Workshop 3: Counterbalance and Inversions</strong></li>        
+              In this final workshop we will explore counterbalances and inversions. We will introduce the subleties of L-basing Hand 2 hand and other balance, inversion and counter balance tricks.
+
+              <a class="big-link-1" href="https://www.facebook.com/events/1678801022394029/">Saturday 16/04- Counterbalances and Inversions (Fb-event)</a>
+              <!-- Saturday 16/04- https://www.facebook.com/events/1678801022394029/ -->
+
+              <!-- More info at:
+              http://flyinghighacrobatics.com/events.php  -->
+              <br><br>
+              <b>Registration:</b><br>
+              <a class="big-link-1" href="http://goo.gl/forms/KY5m5nL61e">Form</a>
+              <!-- <br><br>
+              More info coming soon!
+
+              <iframe src="https://docs.google.com/forms/d/10JFl0xYpd1Q_QhrWeIAr6TH72QIEsKNDlOFaDVSwAMg/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+
+              <!-- <b>More info and registration at:</b><br><br> -->
+              <!-- <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a> -->
+              </p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+              <!-- end modal -->
 
 		                <div class="portfolio-box yoga retreat">
 		                	<div class="portfolio-box-container">
@@ -344,45 +416,6 @@ During our courses we often concurrently run 3 classes at a time, giving the stu
                     </div>
                   <!-- end modal -->
 
-                  <div class="portfolio-box acrobatics">
-                    <div class="portfolio-box-container">
-                      <img src="assets/img/promo/april.jpg">
-                      <div class="portfolio-box-text">
-                        <h3>Inversions & Acro series</h3>
-                        <p><strong>Aalborg, Denmark in April </strong></p>
-
-                        <!-- Trigger the modal with a button -->
-                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#aprilModal">Read more!</button>
-
-                        </div>
-                    </div>
-                  </div>
-                  <!-- Modal -->
-                  <div id="aprilModal" class="modal fade" role="dialog">
-                    <div class="modal-dialog">
-
-                      <!-- Modal content-->
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <button type="button" class="close" data-dismiss="modal">&times;</button>
-                          <h4 class="modal-title">Inversions & Acro series, April. Aalborg, Denmark</h4>
-                        </div>
-                        <div class="modal-body">
-                          <p><span class="violet">Martin Kvist and Vanille Siméon</span> will be giving acroyoga & partner acrobatics workshops in Aalborg Denmark.
-            <br><br>
-            More info coming soon!
-            <!-- <b>More info and registration at:</b><br><br> -->
-            <!-- <a class="big-link-1" href="http://www.themaitrimovement.com/#!acro-may-2016/y09sc">The Maitri Movement</a> -->
-            </p>
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-
-                    </div>
-                  </div>
-            <!-- end modal -->
 
 	                </div>
 	            </div>
