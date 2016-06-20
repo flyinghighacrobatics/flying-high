@@ -187,6 +187,9 @@
 
                   </ul>
                 </li>
+		<li>
+		    <a href="coaching.php"><i class="fa fa-globe"></i><br>Online Coaching</a>
+		</li>
 					</ul>
 				</div>
 			</div>
